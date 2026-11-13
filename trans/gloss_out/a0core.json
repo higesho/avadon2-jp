@@ -1,0 +1,402 @@
+[
+{
+"en": "Khalida",
+"ja": "カリーダ",
+"keep": true
+},
+{
+"en": "Dedrik",
+"ja": "デドリック",
+"keep": true
+},
+{
+"en": "Yoshiria",
+"ja": "ヨシリア",
+"keep": true
+},
+{
+"en": "Yannick",
+"ja": "ヤニック",
+"keep": true
+},
+{
+"en": "Alcander",
+"ja": "アルカンダー",
+"keep": true
+},
+{
+"en": "Odil",
+"ja": "オディル",
+"keep": true
+},
+{
+"en": "Commander Odil",
+"ja": "オディル司令官",
+"keep": true
+},
+{
+"en": "Commander Odil of Rockridge Keep",
+"ja": "ロックリッジ城塞のオディル司令官",
+"keep": true
+},
+{
+"en": "Konstina",
+"ja": "コンスティナ",
+"keep": true
+},
+{
+"en": "Rockridge",
+"ja": "ロックリッジ",
+"keep": true
+},
+{
+"en": "Rockridge Keep",
+"ja": "ロックリッジ城塞",
+"keep": true
+},
+{
+"en": "Monitor Base",
+"ja": "監視基地",
+"keep": true
+},
+{
+"en": "Monitor Bases",
+"ja": "監視基地",
+"keep": true
+},
+{
+"en": "Contested Lands",
+"ja": "係争地",
+"keep": true
+},
+{
+"en": "Protus",
+"ja": "プロトゥス",
+"keep": true
+},
+{
+"en": "Heart Protus",
+"ja": "ハートのプロトゥス",
+"keep": true
+},
+{
+"en": "Fort Foresight",
+"ja": "先見砦",
+"keep": true
+},
+{
+"en": "Gray Raptors",
+"ja": "灰色猛禽団",
+"keep": true
+},
+{
+"en": "Gray Raptor",
+"ja": "灰色猛禽団",
+"keep": true
+},
+{
+"en": "Raptors",
+"ja": "猛禽団",
+"keep": true
+},
+{
+"en": "God",
+"ja": "神",
+"keep": true
+},
+{
+"en": "Gods",
+"ja": "神々",
+"keep": true
+},
+{
+"en": "Goddess",
+"ja": "女神",
+"keep": true
+},
+{
+"en": "Sovereign",
+"ja": "聖君",
+"keep": true
+},
+{
+"en": "Sovereign of the Tawon",
+"ja": "タウォンの聖君",
+"keep": true
+},
+{
+"en": "Serdica",
+"ja": "セルディカ",
+"keep": true
+},
+{
+"en": "Troezen",
+"ja": "トロイゼン",
+"keep": true
+},
+{
+"en": "Vardegras",
+"ja": "ヴァーデグラス",
+"keep": true
+},
+{
+"en": "Valera",
+"ja": "ヴァレラ",
+"keep": true
+},
+{
+"en": "Temple of Valera",
+"ja": "ヴァレラ神殿",
+"keep": true
+},
+{
+"en": "Chabon",
+"ja": "チャボン",
+"keep": true
+},
+{
+"en": "Dymas",
+"ja": "ダイマス",
+"keep": true
+},
+{
+"en": "Eye Dymas",
+"ja": "アイのダイマス",
+"keep": true
+},
+{
+"en": "Etsu",
+"ja": "エツ",
+"keep": true
+},
+{
+"en": "Eye Etsu",
+"ja": "アイのエツ",
+"keep": true
+},
+{
+"en": "Aetius",
+"ja": "アエティウス",
+"keep": true
+},
+{
+"en": "God Aetius",
+"ja": "アエティウス神",
+"keep": true
+},
+{
+"en": "Temple of Aetius",
+"ja": "アエティウス神殿",
+"keep": true
+},
+{
+"en": "Nolus",
+"ja": "ノルス",
+"keep": true
+},
+{
+"en": "Temple of Nolus",
+"ja": "ノルス神殿",
+"keep": true
+},
+{
+"en": "Core",
+"ja": "核",
+"keep": true
+},
+{
+"en": "Core of the Corruption",
+"ja": "堕落の核",
+"keep": true
+},
+{
+"en": "Corruption's Core",
+"ja": "堕落の核",
+"keep": true
+},
+{
+"en": "Pure Land",
+"ja": "清浄の地",
+"keep": true
+},
+{
+"en": "Blackwood",
+"ja": "黒き森",
+"keep": true
+},
+{
+"en": "Kva Riverlands",
+"ja": "クヴァ河畔地方",
+"keep": true
+},
+{
+"en": "Riverlands",
+"ja": "河畔地方",
+"keep": true
+},
+{
+"en": "Rockfall Canyon",
+"ja": "落石峡谷",
+"keep": true
+},
+{
+"en": "Hundred Claws",
+"ja": "百爪",
+"keep": true
+},
+{
+"en": "Tinkermage",
+"ja": "機工術師",
+"keep": true
+},
+{
+"en": "Envoy",
+"ja": "使節",
+"keep": true
+},
+{
+"en": "Councilor",
+"ja": "評議員",
+"keep": true
+},
+{
+"en": "Councilor Philana",
+"ja": "フィラナ評議員",
+"keep": true
+},
+{
+"en": "Philana",
+"ja": "フィラナ",
+"keep": true
+},
+{
+"en": "Chosen",
+"ja": "選主",
+"keep": true
+},
+{
+"en": "Chosen Tacita",
+"ja": "タキタ選主",
+"keep": true
+},
+{
+"en": "Tacita",
+"ja": "タキタ",
+"keep": true
+},
+{
+"en": "Lawcarver",
+"ja": "法刻師",
+"keep": true
+},
+{
+"en": "Lawcarver Ain",
+"ja": "アイン法刻師",
+"keep": true
+},
+{
+"en": "Seeker",
+"ja": "探求官",
+"keep": true
+},
+{
+"en": "Seeker Machi",
+"ja": "マチ探求官",
+"keep": true
+},
+{
+"en": "Hand Kaede",
+"ja": "ハンドのカエデ",
+"keep": true
+},
+{
+"en": "Kaede",
+"ja": "カエデ",
+"keep": true
+},
+{
+"en": "Hand Esmee",
+"ja": "ハンドのエズミー",
+"keep": true
+},
+{
+"en": "Esmee",
+"ja": "エズミー",
+"keep": true
+},
+{
+"en": "Pactie",
+"ja": "盟約の犬",
+"keep": true
+},
+{
+"en": "Sack of Avadon",
+"ja": "アヴァドン襲撃",
+"keep": true
+},
+{
+"en": "Stalker",
+"ja": "追跡獣",
+"keep": true
+},
+{
+"en": "Shredder",
+"ja": "裂き獣",
+"keep": true
+},
+{
+"en": "Horror",
+"ja": "異形",
+"keep": true
+},
+{
+"en": "Construct",
+"ja": "魔造兵",
+"keep": true
+},
+{
+"en": "Simulacrum",
+"ja": "模造体",
+"keep": true
+},
+{
+"en": "Turret",
+"ja": "砲塔",
+"keep": true
+},
+{
+"en": "Watching Stone",
+"ja": "見張り石",
+"keep": true
+},
+{
+"en": "Avadon 2",
+"ja": "アヴァドン2",
+"keep": true
+},
+{
+"en": "Turrets",
+"ja": "砲塔",
+"keep": true
+},
+{
+"en": "Stalkers",
+"ja": "追跡獣",
+"keep": true
+},
+{
+"en": "Shredders",
+"ja": "裂き獣",
+"keep": true
+},
+{
+"en": "Horrors",
+"ja": "異形",
+"keep": true
+},
+{
+"en": "Constructs",
+"ja": "魔造兵",
+"keep": true
+}
+]

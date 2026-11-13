@@ -1,0 +1,432 @@
+[
+{
+"en": "Ghorus",
+"ja": "ゴーラス",
+"keep": true
+},
+{
+"en": "Ghorus the Hunter",
+"ja": "狩人ゴーラス",
+"keep": true
+},
+{
+"en": "Berenger",
+"ja": "ベレンガー",
+"keep": true
+},
+{
+"en": "Eye Berenger",
+"ja": "アイのベレンガー",
+"keep": true
+},
+{
+"en": "Sabre",
+"ja": "セイバー",
+"keep": true
+},
+{
+"en": "Monitor Sabre",
+"ja": "セイバー百人長",
+"keep": true
+},
+{
+"en": "Wyldrylm Rebel",
+"ja": "ワイルドリルム反徒",
+"keep": true
+},
+{
+"en": "Wyldrylm Raider",
+"ja": "ワイルドリルム賊",
+"keep": true
+},
+{
+"en": "Wyldrylm Townsman",
+"ja": "ワイルドリルム町民",
+"keep": true
+},
+{
+"en": "Wyldrylm Townswoman",
+"ja": "ワイルドリルム町娘",
+"keep": true
+},
+{
+"en": "Gaurus",
+"ja": "ガウルス",
+"keep": true
+},
+{
+"en": "Gaurus Moonchaser",
+"ja": "ガウルス・月追い",
+"keep": true
+},
+{
+"en": "Moonchaser",
+"ja": "月追い",
+"keep": true
+},
+{
+"en": "Thenar",
+"ja": "テナール",
+"keep": true
+},
+{
+"en": "Kennelmaster Thenar",
+"ja": "犬舎長テナール",
+"keep": true
+},
+{
+"en": "Rasmus",
+"ja": "ラスムス",
+"keep": true
+},
+{
+"en": "Ulixes",
+"ja": "ユリクセス",
+"keep": true
+},
+{
+"en": "Shade of Ulixes",
+"ja": "ユリクセスの亡霊",
+"keep": true
+},
+{
+"en": "Keep",
+"ja": "城塞",
+"keep": false
+},
+{
+"en": "Escape",
+"ja": "Esc",
+"keep": false
+},
+{
+"en": "Control",
+"ja": "Ctrl",
+"keep": false
+},
+{
+"en": "Use",
+"ja": "使用",
+"keep": false
+},
+{
+"en": "Saw",
+"ja": "のこぎり",
+"keep": false
+},
+{
+"en": "Pick",
+"ja": "つるはし",
+"keep": false
+},
+{
+"en": "Touch",
+"ja": "手",
+"keep": false
+},
+{
+"en": "Light",
+"ja": "発光",
+"keep": false
+},
+{
+"en": "Blow",
+"ja": "一撃",
+"keep": false
+},
+{
+"en": "Slow",
+"ja": "鈍足",
+"keep": false
+},
+{
+"en": "Arm",
+"ja": "腕",
+"keep": false
+},
+{
+"en": "Body",
+"ja": "死体",
+"keep": false
+},
+{
+"en": "Master",
+"ja": "主",
+"keep": false
+},
+{
+"en": "Blade",
+"ja": "十人隊",
+"keep": false
+},
+{
+"en": "Records",
+"ja": "記録",
+"keep": false
+},
+{
+"en": "Lands",
+"ja": "地",
+"keep": false
+},
+{
+"en": "Land",
+"ja": "地",
+"keep": false
+},
+{
+"en": "Hunt",
+"ja": "狩り",
+"keep": false
+},
+{
+"en": "Base",
+"ja": "基地",
+"keep": false
+},
+{
+"en": "Hall",
+"ja": "広間",
+"keep": false
+},
+{
+"en": "Chamber",
+"ja": "室",
+"keep": false
+},
+{
+"en": "Chambers",
+"ja": "私室",
+"keep": false
+},
+{
+"en": "Quarters",
+"ja": "居室",
+"keep": false
+},
+{
+"en": "Sign",
+"ja": "看板",
+"keep": false
+},
+{
+"en": "Stone",
+"ja": "石",
+"keep": false
+},
+{
+"en": "Wind",
+"ja": "風",
+"keep": false
+},
+{
+"en": "Gaze",
+"ja": "凝視",
+"keep": false
+},
+{
+"en": "Symbol",
+"ja": "印",
+"keep": false
+},
+{
+"en": "Wheel",
+"ja": "車輪",
+"keep": false
+},
+{
+"en": "Mist",
+"ja": "霧",
+"keep": false
+},
+{
+"en": "Rock",
+"ja": "岩",
+"keep": false
+},
+{
+"en": "Desk",
+"ja": "机",
+"keep": false
+},
+{
+"en": "Chair",
+"ja": "椅子",
+"keep": false
+},
+{
+"en": "Terrified",
+"ja": "恐怖",
+"keep": false
+},
+{
+"en": "Confused",
+"ja": "混乱",
+"keep": false
+},
+{
+"en": "Combat",
+"ja": "戦闘",
+"keep": false
+},
+{
+"en": "Game",
+"ja": "ゲーム",
+"keep": false
+},
+{
+"en": "Characters",
+"ja": "キャラクター",
+"keep": false
+},
+{
+"en": "Character",
+"ja": "キャラクター",
+"keep": false
+},
+{
+"en": "Items",
+"ja": "アイテム",
+"keep": false
+},
+{
+"en": "Equipment",
+"ja": "装備",
+"keep": false
+},
+{
+"en": "Tools",
+"ja": "道具",
+"keep": false
+},
+{
+"en": "Armor",
+"ja": "防御力",
+"keep": false
+},
+{
+"en": "Door",
+"ja": "扉",
+"keep": false
+},
+{
+"en": "Box",
+"ja": "箱",
+"keep": false
+},
+{
+"en": "Trap",
+"ja": "罠",
+"keep": false
+},
+{
+"en": "Farm",
+"ja": "農場",
+"keep": false
+},
+{
+"en": "Tower",
+"ja": "塔",
+"keep": false
+},
+{
+"en": "Cells",
+"ja": "監房",
+"keep": false
+},
+{
+"en": "Servant",
+"ja": "従者",
+"keep": false
+},
+{
+"en": "Basin",
+"ja": "水盤",
+"keep": false
+},
+{
+"en": "Bones",
+"ja": "骨",
+"keep": false
+},
+{
+"en": "Coins",
+"ja": "ゴールド",
+"keep": false
+},
+{
+"en": "Prisoner",
+"ja": "囚人",
+"keep": false
+},
+{
+"en": "Shield",
+"ja": "盾",
+"keep": false
+},
+{
+"en": "Spell",
+"ja": "呪文",
+"keep": false
+},
+{
+"en": "Level",
+"ja": "レベル",
+"keep": false
+},
+{
+"en": "Training",
+"ja": "訓練",
+"keep": false
+},
+{
+"en": "Merchant",
+"ja": "商人",
+"keep": false
+},
+{
+"en": "Soldier",
+"ja": "兵士",
+"keep": false
+},
+{
+"en": "Warrior",
+"ja": "戦士",
+"keep": false
+},
+{
+"en": "Wine",
+"ja": "ワイン",
+"keep": false
+},
+{
+"en": "Inn",
+"ja": "宿屋",
+"keep": false
+},
+{
+"en": "Mines",
+"ja": "鉱山",
+"keep": false
+},
+{
+"en": "Ghost",
+"ja": "ゴースト",
+"keep": false
+},
+{
+"en": "Shade",
+"ja": "亡霊",
+"keep": false
+},
+{
+"en": "Spirit",
+"ja": "霊",
+"keep": false
+},
+{
+"en": "Troezen Arms",
+"ja": "トロイゼン亭",
+"keep": true
+}
+]

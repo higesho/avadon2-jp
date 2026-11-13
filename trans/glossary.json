@@ -1,0 +1,12415 @@
+[
+{
+"en": "Avadon",
+"ja": "アヴァドン",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Pact",
+"ja": "盟約",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Corruption",
+"ja": "堕落",
+"keep": true,
+"cat": "status"
+},
+{
+"en": "Redbeard",
+"ja": "赤髭",
+"keep": true,
+"cat": "creature/creature/person",
+"max_bytes": 19
+},
+{
+"en": "Tawon",
+"ja": "タウォン",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Hand",
+"ja": "ハンド",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Wyldrylm",
+"ja": "ワイルドリルム",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Hand of Avadon",
+"ja": "アヴァドンのハンド",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "Dheless",
+"ja": "デレス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Miranda",
+"ja": "ミランダ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Hands",
+"ja": "ハンド",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Kva",
+"ja": "クヴァ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Black Fortress",
+"ja": "黒の要塞",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Khalida",
+"ja": "カリーダ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Odil",
+"ja": "オディル",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Lynaeus",
+"ja": "リネウス",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Konstina",
+"ja": "コンスティナ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Farlands",
+"ja": "ファーランド",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Rockridge Keep",
+"ja": "ロックリッジ城塞",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Tawon Empire",
+"ja": "タウォン帝国",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Monitor Base",
+"ja": "監視基地",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Contested Lands",
+"ja": "係争地",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Level",
+"ja": "レベル",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Keeper",
+"ja": "番人",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Hanvar's Council",
+"ja": "ハンヴァーの評議会",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Protus",
+"ja": "プロトゥス",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Commander Odil",
+"ja": "オディル司令官",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Dharam",
+"ja": "ダーラム",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Dedrik",
+"ja": "デドリック",
+"keep": true,
+"cat": "creature/creature/person",
+"max_bytes": 19
+},
+{
+"en": "Yoshiria",
+"ja": "ヨシリア",
+"keep": true,
+"cat": "creature/creature/person",
+"max_bytes": 19
+},
+{
+"en": "Fort Foresight",
+"ja": "先見砦",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Gray Raptors",
+"ja": "灰色猛禽団",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "God",
+"ja": "神",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Serdica",
+"ja": "セルディカ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Yannick",
+"ja": "ヤニック",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Council",
+"ja": "評議会",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Eyes",
+"ja": "アイ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Kellem",
+"ja": "ケレム",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Stone Code",
+"ja": "石の掟",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Kellemderiel",
+"ja": "ケレムデリエル",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Hearts",
+"ja": "ハート",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Vardegras",
+"ja": "ヴァーデグラス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Heart Protus",
+"ja": "ハートのプロトゥス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Troezen",
+"ja": "トロイゼン",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Valera",
+"ja": "ヴァレラ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Chabon",
+"ja": "チャボン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Dymas",
+"ja": "ダイマス",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Etsu",
+"ja": "エツ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Alcander",
+"ja": "アルカンダー",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Farlanders",
+"ja": "ファーランド人",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Nicodemus",
+"ja": "ニコデムス",
+"keep": true,
+"cat": "shop"
+},
+{
+"en": "Svorgald",
+"ja": "スヴォルガルド",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Dharamite",
+"ja": "ダーラム人",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Eye",
+"ja": "アイ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Xenophon",
+"ja": "クセノフォン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Aetius",
+"ja": "アエティウス",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Black Age",
+"ja": "黒の時代",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Deniz",
+"ja": "デニズ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Heart",
+"ja": "ハート",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Valens",
+"ja": "ヴァレンス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Core",
+"ja": "核",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Ibu",
+"ja": "イブ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Farlander",
+"ja": "ファーランド人",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Hands of Avadon",
+"ja": "アヴァドンのハンド",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Holklanda",
+"ja": "ホルクランダ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Karim",
+"ja": "カリム",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Keeper of Avadon",
+"ja": "アヴァドンの番人",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Door",
+"ja": "扉",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Sulla",
+"ja": "スラ",
+"keep": true,
+"cat": "creature/creature/person",
+"max_bytes": 19
+},
+{
+"en": "Blackwood",
+"ja": "黒き森",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Holklandan",
+"ja": "ホルクランダ人",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Sovereign",
+"ja": "聖君",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Code",
+"ja": "掟",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Mamora",
+"ja": "マモラ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Basilia",
+"ja": "バジリア",
+"keep": true,
+"cat": "creature/person/shop",
+"max_bytes": 19
+},
+{
+"en": "Gryfyn",
+"ja": "グリフィン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Pure Land",
+"ja": "清浄の地",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Senicha",
+"ja": "セニチャ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Hundred Claws",
+"ja": "百爪",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Temple of Aetius",
+"ja": "アエティウス神殿",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Titan Peaks",
+"ja": "タイタンの峰",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Callan",
+"ja": "カラン",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Eranthe",
+"ja": "エランテ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Eye Dymas",
+"ja": "アイのダイマス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Ghorus",
+"ja": "ゴーラス",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Keep",
+"ja": "城塞",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Midlands Pact",
+"ja": "ミッドランド盟約",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Caral",
+"ja": "カラル",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Holklandans",
+"ja": "ホルクランダ人",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Krymhylas",
+"ja": "クリムヒラス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Monitor Bases",
+"ja": "監視基地",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Training",
+"ja": "訓練",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Watcher Ibu",
+"ja": "イブ十人長",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Claws",
+"ja": "爪",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Commander",
+"ja": "司令官",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Dharamites",
+"ja": "ダーラム人",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Heart Callan",
+"ja": "ハートのカラン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Tibold",
+"ja": "ティボルド",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Base",
+"ja": "基地",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Beraza Woods",
+"ja": "ベラザの森",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Cnaeus",
+"ja": "クナエウス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Esmee",
+"ja": "エズミー",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Eye Etsu",
+"ja": "アイのエツ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Hand Kaede",
+"ja": "ハンドのカエデ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Jaime",
+"ja": "ジェイム",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Kaede",
+"ja": "カエデ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Melanctha",
+"ja": "メランクサ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Cycle",
+"ja": "周期",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Eye Mamora",
+"ja": "アイのマモラ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Heart of Avadon",
+"ja": "アヴァドンのハート",
+"keep": true,
+"cat": "achievement/creature/person",
+"max_bytes": 19
+},
+{
+"en": "Rainer",
+"ja": "レイナー",
+"keep": true,
+"cat": "creature/creature/person",
+"max_bytes": 19
+},
+{
+"en": "Sabre",
+"ja": "セイバー",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Temple of Nolus",
+"ja": "ノルス神殿",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Watching Stone",
+"ja": "見張り石",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Empire",
+"ja": "帝国",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Eumenia",
+"ja": "エウメニア",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Eye of Avadon",
+"ja": "アヴァドンのアイ",
+"keep": true,
+"cat": "achievement/creature/person",
+"max_bytes": 19
+},
+{
+"en": "Michon",
+"ja": "ミション",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Philana",
+"ja": "フィラナ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Silke",
+"ja": "シルケ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Smith Duman",
+"ja": "鍛冶屋のドゥマン",
+"keep": true,
+"cat": "creature/person/shop",
+"max_bytes": 19
+},
+{
+"en": "Tacita",
+"ja": "タキタ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Temple of Valera",
+"ja": "ヴァレラ神殿",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Box",
+"ja": "箱",
+"keep": false,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Brasula",
+"ja": "ブラスラ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Control",
+"ja": "Ctrl",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Felixa",
+"ja": "フェリクサ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Focus",
+"ja": "集中",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Ghorus the Hunter",
+"ja": "狩人ゴーラス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Goddess",
+"ja": "女神",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Gods",
+"ja": "神々",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Kva Riverlands",
+"ja": "クヴァ河畔地方",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Mastery",
+"ja": "極意",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Sovereign of the Tawon",
+"ja": "タウォンの聖君",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Svarl",
+"ja": "スヴァル",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Blade",
+"ja": "十人隊",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Councilor Philana",
+"ja": "フィラナ評議員",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Craft",
+"ja": "技",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Dexterity",
+"ja": "器用さ",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Dirran",
+"ja": "ディラン",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Eye Laria",
+"ja": "アイのラリア",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Folker",
+"ja": "フォルカー",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "God Aetius",
+"ja": "アエティウス神",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Gray Raptor",
+"ja": "灰色猛禽団",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Haste",
+"ja": "加速",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Heart Miranda",
+"ja": "ハートのミランダ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Khremess",
+"ja": "クレメス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Nolus",
+"ja": "ノルス",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Opaline",
+"ja": "オパリン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Pact Soldier",
+"ja": "盟約の兵士",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Polus",
+"ja": "ポルス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Redbeard's Tower",
+"ja": "赤髭の塔",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Riverlands",
+"ja": "河畔地方",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Rockfall Canyon",
+"ja": "落石峡谷",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Shield",
+"ja": "盾",
+"keep": false,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Varro",
+"ja": "ヴァロ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Vrgul",
+"ja": "ヴルグル",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Watcher",
+"ja": "十人長",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Wretch Lands",
+"ja": "蛮人の地",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Blow",
+"ja": "一撃",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Chosen",
+"ja": "選主",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Chosen Tacita",
+"ja": "タキタ選主",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Construct Controller",
+"ja": "魔造兵の制御者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Discipline",
+"ja": "鍛錬",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Eliades",
+"ja": "エリアデス",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Folk",
+"ja": "民",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Gaurus",
+"ja": "ガウルス",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Gherunk",
+"ja": "ゲルンク",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Jazlyn",
+"ja": "ジャズリン",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Khemeria",
+"ja": "ケメリア",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Master",
+"ja": "主",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Monitor Nimah",
+"ja": "ニマ百人長",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Nimah",
+"ja": "ニマ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Ophira",
+"ja": "オフィラ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Pactie",
+"ja": "盟約の犬",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Sack of Avadon",
+"ja": "アヴァドン襲撃",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Yutsua",
+"ja": "ユツア",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Ain",
+"ja": "アイン",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Arms Within",
+"ja": "内なる抱擁",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Berenger",
+"ja": "ベレンガー",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Blademaster",
+"ja": "剣士",
+"keep": true,
+"cat": "creature/creature/person/skill",
+"max_bytes": 19
+},
+{
+"en": "Chant",
+"ja": "詠唱",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Charm",
+"ja": "お守り",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Combat",
+"ja": "戦闘",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Councilor Tan",
+"ja": "タン評議員",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Craftmaster Nicodemus",
+"ja": "ニコデムス工匠長",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Curse",
+"ja": "呪い",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Cybele",
+"ja": "キュベレ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Duke Gryfyn",
+"ja": "グリフィン公",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Durma",
+"ja": "ドゥルマ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Envoy Brasula",
+"ja": "使節のブラスラ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Frenzied Stalker",
+"ja": "狂乱の追跡獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Great Invisible",
+"ja": "偉大なる不可視者",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Hall",
+"ja": "広間",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Holklandan Brigand",
+"ja": "ホルクランダの山賊",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Hunter",
+"ja": "狩人",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Keepers",
+"ja": "番人",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Lamp",
+"ja": "ランプ",
+"keep": true,
+"cat": "item/object",
+"max_bytes": 19
+},
+{
+"en": "Lever",
+"ja": "レバー",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Machi",
+"ja": "マチ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Marlene",
+"ja": "マーレン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Quick Spell",
+"ja": "クイック呪文",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Raptors",
+"ja": "猛禽団",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Rebel Hunter",
+"ja": "反逆者の狩人",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Rebel Warrior",
+"ja": "反逆者の戦士",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Rockridge Soldier",
+"ja": "ロックリッジの兵士",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Samien",
+"ja": "サミエン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Seeker Machi",
+"ja": "マチ探求官",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shift",
+"ja": "Shift",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Skyrise Farm",
+"ja": "天空農場",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Tawon Raider",
+"ja": "タウォンの襲撃者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Trap",
+"ja": "罠",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Vella",
+"ja": "ヴェラ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Alain",
+"ja": "アラン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Aslak",
+"ja": "アスラク",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Battle Frenzy",
+"ja": "戦闘狂乱",
+"keep": true,
+"cat": "ability/status",
+"max_bytes": 19
+},
+{
+"en": "Bedroom",
+"ja": "寝室",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Bench",
+"ja": "ベンチ",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Briand",
+"ja": "ブリアンド",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Dad",
+"ja": "父さん",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Endurance",
+"ja": "持久力",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Escape",
+"ja": "Esc",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Farm",
+"ja": "農場",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Gods of the Tawon",
+"ja": "タウォンの神々",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Hadya",
+"ja": "ハディヤ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Hand Briand",
+"ja": "ハンドのブリアンド",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Iania",
+"ja": "イアニア",
+"keep": true,
+"cat": "creature/person/shop",
+"max_bytes": 19
+},
+{
+"en": "Imperator",
+"ja": "統領",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Intelligence",
+"ja": "知力",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Journal",
+"ja": "日誌",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Kva Warrior",
+"ja": "クヴァの戦士",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Laria",
+"ja": "ラリア",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Lawcarver Ain",
+"ja": "アイン法刻師",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Leira",
+"ja": "レイラ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Library Defender",
+"ja": "書庫の守護者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Load Game",
+"ja": "ゲームをロード",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Locksmith",
+"ja": "解錠術",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Lore",
+"ja": "ローア",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Moonchaser",
+"ja": "月追い",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Pact Brigand",
+"ja": "盟約の山賊",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Protector Cnaeus",
+"ja": "守護者クナエウス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Quarters",
+"ja": "居室",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Recovery",
+"ja": "回復",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Reformed Stalker",
+"ja": "更生した追跡獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Riverside Inn",
+"ja": "河畔の宿屋",
+"keep": true,
+"cat": "shop"
+},
+{
+"en": "Ruins Imp",
+"ja": "廃墟の小鬼",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Serdican Guard",
+"ja": "セルディカの衛兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shadowwalker",
+"ja": "影歩き",
+"keep": true,
+"cat": "creature/skill",
+"max_bytes": 19
+},
+{
+"en": "Shaman",
+"ja": "呪術師",
+"keep": true,
+"cat": "creature/skill",
+"max_bytes": 19
+},
+{
+"en": "Shunnar",
+"ja": "シュナー",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Skeletal Scourger",
+"ja": "骸骨の鞭打ち手",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Sorcerer",
+"ja": "妖術師",
+"keep": true,
+"cat": "creature/skill",
+"max_bytes": 19
+},
+{
+"en": "Spitting Cavespider",
+"ja": "唾吐く洞窟蜘蛛",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Stairs",
+"ja": "階段",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Stalker Spider",
+"ja": "追跡蜘蛛",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Stone Wall Beyond",
+"ja": "石壁の向こう",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Tab",
+"ja": "Tab",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Tan",
+"ja": "タン",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Tanner",
+"ja": "皮なめし職人",
+"keep": true,
+"cat": "creature/person/shop",
+"max_bytes": 19
+},
+{
+"en": "Thenar",
+"ja": "テナール",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Tinkermage",
+"ja": "機工術師",
+"keep": true,
+"cat": "creature/skill",
+"max_bytes": 19
+},
+{
+"en": "Tool Use",
+"ja": "道具使用",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Torch",
+"ja": "松明",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Tormented Bones",
+"ja": "苦悶の骸骨",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Tower",
+"ja": "塔",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "War Chant",
+"ja": "戦いの詠唱",
+"keep": true,
+"cat": "status"
+},
+{
+"en": "Watcher Deniz",
+"ja": "デニズ十人長",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Watcher Gamal",
+"ja": "ガマル十人長",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Weakness Curse",
+"ja": "衰弱の呪い",
+"keep": true,
+"cat": "status"
+},
+{
+"en": "Wind",
+"ja": "風",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Winds",
+"ja": "風",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Woods Widow",
+"ja": "森のゴケグモ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Wretch Scout",
+"ja": "蛮人の斥候",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Wyetta",
+"ja": "ワイエッタ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Xanthe",
+"ja": "クサンテ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Yasuo's Guard",
+"ja": "ヤスオの衛兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Abandoned Construct",
+"ja": "放棄された魔造兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Acid",
+"ja": "酸",
+"keep": true,
+"cat": "status"
+},
+{
+"en": "Ancient Sorcerer",
+"ja": "古代の妖術師",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Arcane Blessing",
+"ja": "秘術の加護",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Baby Spider",
+"ja": "幼い蜘蛛",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Bladeward Stalker",
+"ja": "刃守りの追跡獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Blessing Pylon",
+"ja": "加護の転送柱",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Cave Bat",
+"ja": "洞窟コウモリ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Cecania",
+"ja": "セカニア",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Chambers",
+"ja": "私室",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Chaotic Stalker",
+"ja": "混沌の追跡獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Characters",
+"ja": "キャラクター",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Charmed Tawon Warrior",
+"ja": "魅了のタウォン戦士",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Clang",
+"ja": "クラング",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Claw",
+"ja": "鉤爪",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Cloud of Confusion",
+"ja": "混乱の雲",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Code Defender",
+"ja": "掟の守護者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Commander Odil of Rockridge Keep",
+"ja": "ロックリッジ城塞のオディル司令官",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Commander Ophira",
+"ja": "オフィラ司令官",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Core of the Corruption",
+"ja": "堕落の核",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Corrupted Widow",
+"ja": "堕落したゴケグモ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Corruption's Core",
+"ja": "堕落の核",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Dancing Bones",
+"ja": "踊る骸骨",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Daze",
+"ja": "朦朧",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Defender Varro",
+"ja": "守護者ヴァロ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Ephemeral Horror",
+"ja": "儚い異形",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Eye Berenger",
+"ja": "アイのベレンガー",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Eye Leira",
+"ja": "アイのレイラ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "First Age",
+"ja": "第一の時代",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Freezing Turret",
+"ja": "氷結砲塔",
+"keep": true,
+"cat": "creature/skill",
+"max_bytes": 19
+},
+{
+"en": "Frenzied Imp",
+"ja": "狂乱の小鬼",
+"keep": true,
+"cat": "creature/creature/person",
+"max_bytes": 19
+},
+{
+"en": "Frenzied Shredder",
+"ja": "狂乱の裂き獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Gamal",
+"ja": "ガマル",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Game",
+"ja": "ゲーム",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Gate Guard",
+"ja": "門の衛兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Gaze",
+"ja": "凝視",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Ghublit",
+"ja": "グブリット",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Hand Esmee",
+"ja": "ハンドのエズミー",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Hermit's Worg",
+"ja": "隠者のワーグ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "High Lord Deathskull",
+"ja": "大領主デスカル",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Keepers of Avadon",
+"ja": "アヴァドンの番人",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Kva Archer",
+"ja": "クヴァの弓兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Lands",
+"ja": "地",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Laris",
+"ja": "ラリス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Lavonne",
+"ja": "ラヴォン",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Meat",
+"ja": "肉",
+"keep": true,
+"cat": "item/object",
+"max_bytes": 19
+},
+{
+"en": "Melee Attack",
+"ja": "近接攻撃",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Monitor Sabre",
+"ja": "セイバー百人長",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Monitor Yutsua",
+"ja": "ユツア百人長",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Mountain Monitor",
+"ja": "山の百人長",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Pit-Bred Wolf",
+"ja": "穴育ちの狼",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Pot",
+"ja": "壺",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Potion of Vitality",
+"ja": "活力の薬",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Raptor Sorcerer",
+"ja": "猛禽団の妖術師",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Rebel",
+"ja": "反逆者",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Rebel Brigand",
+"ja": "反逆者の山賊",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Reeking Rat",
+"ja": "悪臭のネズミ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Reflection",
+"ja": "反射",
+"keep": true,
+"cat": "ability/status",
+"max_bytes": 19
+},
+{
+"en": "Reptile Simulacrum",
+"ja": "爬虫類の模造体",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Researching Eye",
+"ja": "研究中のアイ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Rockridge",
+"ja": "ロックリッジ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Rockridge Scout",
+"ja": "ロックリッジの斥候",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Salamander",
+"ja": "サラマンダー",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Save Game",
+"ja": "セーブ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Settings",
+"ja": "設定",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Silvana",
+"ja": "シルヴァナ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Snare Turret",
+"ja": "罠の砲塔",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Sovereigns",
+"ja": "聖君たち",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Spitting Stalker",
+"ja": "唾吐く追跡獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Splitting Shredder",
+"ja": "分裂する裂き獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Steward Galois",
+"ja": "執事ガロワ",
+"keep": true,
+"cat": "creature/person/shop",
+"max_bytes": 19
+},
+{
+"en": "Strength",
+"ja": "筋力",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Symbol",
+"ja": "印",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Tawon Sovereign",
+"ja": "タウォンの聖君",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Tawons",
+"ja": "タウォン人",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Telera",
+"ja": "テレラ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Third Age",
+"ja": "第三の時代",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Timon",
+"ja": "ティモン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Torment",
+"ja": "トーメント",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Trash",
+"ja": "ガラクタ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Tunneling Rat",
+"ja": "掘り進むネズミ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Ulixes",
+"ja": "ユリクセス",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Unstable Stalker",
+"ja": "不安定な追跡獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Vartius",
+"ja": "ヴァルティウス",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Vitality",
+"ja": "活力",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "War Curse",
+"ja": "戦いの呪い",
+"keep": true,
+"cat": "status"
+},
+{
+"en": "Watcher Caral",
+"ja": "カラル十人長",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Watcher Leron",
+"ja": "レロン十人長",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Wheel",
+"ja": "車輪",
+"keep": false,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Wolf",
+"ja": "狼",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Wretch Sapper",
+"ja": "蛮人の工兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Wyldrylm Rebel",
+"ja": "ワイルドリルム反徒",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Wyldrylm Warrior",
+"ja": "ワイルドリルム戦士",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Action Buttons",
+"ja": "アクションボタン",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Admes",
+"ja": "アドメス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Airlia",
+"ja": "エアリア",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Alchemical Equipment",
+"ja": "錬金器具",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Analysis Chambers",
+"ja": "分析室",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Antlers",
+"ja": "鹿の角",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Arcane Curse",
+"ja": "秘術の呪い",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Arm",
+"ja": "腕",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Armor",
+"ja": "防御力",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Aslak's Hound",
+"ja": "アスラクの猟犬",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Assassin",
+"ja": "暗殺者",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Assault Blessing",
+"ja": "突撃の加護",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Avadon Guard",
+"ja": "アヴァドンの衛兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Avadon Symbol",
+"ja": "アヴァドンの印章",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Avadon's Hands",
+"ja": "アヴァドンのハンド",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Bands",
+"ja": "部族",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Barracks",
+"ja": "兵舎",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Barrel",
+"ja": "樽",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Base Guard",
+"ja": "基地の衛兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Basin Guardian",
+"ja": "水盤の守護者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Berserk Leap",
+"ja": "狂戦士の跳躍",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Berserker",
+"ja": "狂戦士",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Berserker Slash",
+"ja": "狂戦士斬り",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Beta Testing",
+"ja": "ベータテスト",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Blade Sweep",
+"ja": "刃の薙ぎ払い",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Blade Training",
+"ja": "刃の訓練",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Blade Whirlwind",
+"ja": "刃の旋風",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Blade of Pact",
+"ja": "盟約の十人隊",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Bladelash",
+"ja": "刃の鞭",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Bladeshield",
+"ja": "刃の盾",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Blessing",
+"ja": "加護",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Blessing of Thorns",
+"ja": "茨の加護",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Blind Zhivron",
+"ja": "盲目のジヴロン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Boltflinger",
+"ja": "ボルトフリンガー",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Bookshelf",
+"ja": "本棚",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Bow",
+"ja": "弓術",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Brazier",
+"ja": "火鉢",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Broken Clay",
+"ja": "割れた粘土",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Build Blessing Pylon",
+"ja": "加護の転送柱設置",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Build Healing Pylon",
+"ja": "治癒の転送柱設置",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Build Snare Turret",
+"ja": "捕縛砲塔設置",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Build Temporal Pylon",
+"ja": "時間の転送柱設置",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Call Drake",
+"ja": "ドレイク召喚",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Call Hellhound",
+"ja": "地獄犬召喚",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Call Rat",
+"ja": "ネズミ召喚",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Call Salamander",
+"ja": "サラマンダー召喚",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Call Wolf",
+"ja": "狼召喚",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Call of the Frenzy",
+"ja": "狂乱の呼び声",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Call the Storm",
+"ja": "嵐を呼ぶ",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Call the Winds",
+"ja": "風を呼ぶ",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Cauldron",
+"ja": "大釜",
+"keep": true,
+"cat": "item/object",
+"max_bytes": 19
+},
+{
+"en": "Caustic Grenade",
+"ja": "腐食手榴弾",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Cave Monitor",
+"ja": "洞窟オオトカゲ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Cells",
+"ja": "監房",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Chained Bones",
+"ja": "鎖につながれた骨",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Challenge",
+"ja": "挑発",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Chamber",
+"ja": "室",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Character",
+"ja": "キャラクター",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Character Info",
+"ja": "キャラクター情報",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Charge Turrets",
+"ja": "砲塔の充填",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Charged Shot",
+"ja": "帯電の一射",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Charm Foe",
+"ja": "敵を魅了",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Clawshhh",
+"ja": "爪ッシィ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Commander Ophira of Monitor Base",
+"ja": "監視基地のオフィラ司令官",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Commander Varro",
+"ja": "ヴァロ司令官",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Commander Yutsua",
+"ja": "ユツア司令官",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Confusion",
+"ja": "混乱",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Corban",
+"ja": "コルバン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Corban's Blades",
+"ja": "コルバンの刃物店",
+"keep": true,
+"cat": "shop"
+},
+{
+"en": "Cornix",
+"ja": "コルニクス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Corrupted Construct",
+"ja": "堕落した魔造兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Corrupting Cloud",
+"ja": "堕落の雲",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Corruption Core",
+"ja": "堕落の核",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Councillor Philana",
+"ja": "フィラナ評議員",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Councillor Tan",
+"ja": "タン評議員",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Crossed Axes",
+"ja": "交差した斧",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Crossed Swords",
+"ja": "交差した剣",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Cry",
+"ja": "叫び",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Cunning Decoy",
+"ja": "狡猾な囮",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Curse Howl",
+"ja": "呪いの咆哮",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Dagger",
+"ja": "短剣",
+"keep": true,
+"cat": "ability/item",
+"max_bytes": 19
+},
+{
+"en": "Dark Assassin",
+"ja": "闇の暗殺者",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Deep Woods Bat",
+"ja": "深森のコウモリ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Defender Ulixes",
+"ja": "ユリクセス守護官",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Desert Basilisk",
+"ja": "砂漠のバジリスク",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Disarming Blow",
+"ja": "武装解除の一撃",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Disk",
+"ja": "ディスク",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Drakeling",
+"ja": "小ドレイク",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Dungeon Guard",
+"ja": "地下牢の衛兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Earthquake",
+"ja": "地震",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Earthshatter",
+"ja": "大地砕き",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Effects",
+"ja": "効果",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Eliades Clan",
+"ja": "エリアデス一族",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Elite Guard",
+"ja": "精鋭の衛兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Empires",
+"ja": "帝国",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Envoy Dirran",
+"ja": "使節のディラン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Envoy Jaime",
+"ja": "使節のジェイム",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Equipment",
+"ja": "装備",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Eye Jazlyn",
+"ja": "アイのジャズリン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Eye Lavonne",
+"ja": "アイのラヴォンヌ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Farland",
+"ja": "ファーランド",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Feral Woods Rat",
+"ja": "野生の森ネズミ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Firebolt",
+"ja": "火炎弾",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Firestorm",
+"ja": "火嵐",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Flash Powder",
+"ja": "閃光粉",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Foresight",
+"ja": "先見",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Foresight Guard",
+"ja": "先見砦の衛兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Frenzied Rat",
+"ja": "狂乱のネズミ",
+"keep": true,
+"cat": "creature/creature/person",
+"max_bytes": 19
+},
+{
+"en": "Gamel",
+"ja": "ガメル",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Gaurus Moonchaser",
+"ja": "ガウルス・月追い",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Geir",
+"ja": "ゲイル",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Ghost",
+"ja": "ゴースト",
+"keep": false,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Ghoul Stalker",
+"ja": "グールの追跡獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Goddess Valera",
+"ja": "ヴァレラ女神",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Grenade",
+"ja": "手榴弾",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Group Heal",
+"ja": "集団治癒",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Guest Quarters",
+"ja": "客室",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Halrik",
+"ja": "ハルリック",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Hamstring",
+"ja": "腱切り",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Hana",
+"ja": "ハナ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Hasted",
+"ja": "加速",
+"keep": true,
+"cat": "status"
+},
+{
+"en": "Healing Chant",
+"ja": "癒やしの詠唱",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Healing Focus",
+"ja": "治癒の集中",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Healing Touch",
+"ja": "治癒の手",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Heart Hana",
+"ja": "ハートのハナ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Heart Lexrem",
+"ja": "ハートのレクスレム",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Holklandan Warrior",
+"ja": "ホルクランダ戦士",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Horror From the Past",
+"ja": "過去からの異形",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Huge Vapor Rat",
+"ja": "巨大蒸気ネズミ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Huge Woods Rat",
+"ja": "森の巨大ネズミ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Hunt",
+"ja": "狩り",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Ice Storm",
+"ja": "氷嵐",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Icy Lance",
+"ja": "氷のランス",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Infernal Scourge",
+"ja": "地獄の災厄",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Inferno Turret",
+"ja": "業火の砲塔",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Info Window",
+"ja": "情報ウィンドウ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Inn",
+"ja": "宿屋",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Inventory",
+"ja": "所持品",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Items",
+"ja": "アイテム",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Junk Bag",
+"ja": "雑品袋",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Keeper Avadon",
+"ja": "アヴァドンの番人",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Kellem Brigand",
+"ja": "ケレムの山賊",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Key - Monitor Base",
+"ja": "鍵（監視基地）",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Kiefe",
+"ja": "キーフェ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Kva Blademaster",
+"ja": "クヴァの剣士",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Kva Mercenaries",
+"ja": "クヴァの傭兵",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Land",
+"ja": "地",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Lexrem",
+"ja": "レクスレム",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Lightning Pot",
+"ja": "雷撃の壺",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Lightning Wind",
+"ja": "雷風",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Lizard Hunter",
+"ja": "トカゲ狩人",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Mad Hermit",
+"ja": "狂った隠者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Malevolent Wisp",
+"ja": "悪意の鬼火",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Mallet",
+"ja": "木槌",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Mamora's Assistant",
+"ja": "マモラの助手",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Many Guises",
+"ja": "変幻自在",
+"keep": true,
+"cat": "ability/status",
+"max_bytes": 19
+},
+{
+"en": "Maron",
+"ja": "マロン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Maron's Potions",
+"ja": "マロンの薬店",
+"keep": true,
+"cat": "shop"
+},
+{
+"en": "Master of Avadon",
+"ja": "アヴァドンの主",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Mercenary Wolftender",
+"ja": "傭兵の狼使い",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Mines",
+"ja": "鉱山",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Mist",
+"ja": "霧",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Monitor Threya",
+"ja": "スレヤ百人長",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Netshot",
+"ja": "投網撃ち",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Normal",
+"ja": "ノーマル",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Nova",
+"ja": "ノヴァ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Odil of Rockridge Keep",
+"ja": "ロックリッジ城塞のオディル",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Ogre",
+"ja": "オーガ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Ogre Bellowsworker",
+"ja": "オーガのふいご職人",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Ogre Prisoner",
+"ja": "オーガの囚人",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Opaline's Hound",
+"ja": "オパリンの猟犬",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Outpost Farmer",
+"ja": "前哨の農夫",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Outsiders",
+"ja": "余所者",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Pact Raider",
+"ja": "盟約の襲撃者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Plant",
+"ja": "植物",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Poison",
+"ja": "毒",
+"keep": true,
+"cat": "status"
+},
+{
+"en": "Poison Mist",
+"ja": "毒霧",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Potion of Health",
+"ja": "生命の薬",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Potion of Recovery",
+"ja": "回復の薬",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Potted Plant",
+"ja": "鉢植え",
+"keep": true,
+"cat": "item/object",
+"max_bytes": 19
+},
+{
+"en": "Pouncing Rat",
+"ja": "飛びかかるネズミ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Powder",
+"ja": "粉",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Power Surge",
+"ja": "力の奔流",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Prison Ghost",
+"ja": "牢獄のゴースト",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Purity",
+"ja": "清浄",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Quartermaster",
+"ja": "補給係",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Quick Save",
+"ja": "クイックセーブ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Quicksave",
+"ja": "クイックセーブ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Quickspell",
+"ja": "クイック呪文",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Raptor",
+"ja": "猛禽",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Raptor Agent",
+"ja": "猛禽団の工作員",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Rasmus",
+"ja": "ラスムス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Razor Spray",
+"ja": "剃刀の噴霧",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Razordisk",
+"ja": "円月刃",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Reanimated Priest",
+"ja": "蘇った司祭",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Rebel Captain",
+"ja": "反逆者の隊長",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Records",
+"ja": "記録",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Resting Worker",
+"ja": "休息中の作業員",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Restoration Shredder",
+"ja": "修復の裂き獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Resurrection",
+"ja": "復活",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Revive Servant",
+"ja": "従者の蘇生",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Roar",
+"ja": "咆哮",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Rockridge Guard",
+"ja": "ロックリッジの衛兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Rockridge Monitor",
+"ja": "ロックリッジ百人長",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Rockridge Quartermaster",
+"ja": "ロックリッジ補給係",
+"keep": true,
+"cat": "shop"
+},
+{
+"en": "Rockridge Watcher",
+"ja": "ロックリッジ十人長",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Ruins Infernal",
+"ja": "廃墟の魔性",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Rusty Shelf",
+"ja": "錆びた棚",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Sarcophagus",
+"ja": "石棺",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Savage Blow",
+"ja": "猛撃",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Scales",
+"ja": "鱗",
+"keep": true,
+"cat": "item/object",
+"max_bytes": 19
+},
+{
+"en": "Scout Lore",
+"ja": "斥候ローア",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Searing Pot",
+"ja": "灼熱の壺",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Searing Spray",
+"ja": "灼熱の噴霧",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Second Wind",
+"ja": "第二の風",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Secret Door",
+"ja": "隠し扉",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Servant",
+"ja": "従者",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Shade",
+"ja": "亡霊",
+"keep": false,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Shadow Charm",
+"ja": "影のお守り",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Shadowstep",
+"ja": "影歩き",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Shadowwalker Novice",
+"ja": "見習い影歩き",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Shadowwalker's Focus",
+"ja": "影歩きの集中",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Shaman Simulacrum",
+"ja": "呪術師の模造体",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shaman's Sentinel",
+"ja": "呪術師の番兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Sharpshooter Spray",
+"ja": "狙撃の噴霧",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Shattering Blow",
+"ja": "粉砕の一撃",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Shelf",
+"ja": "棚",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Shelves",
+"ja": "棚",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Shrapnel Grenade",
+"ja": "破片手榴弾",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Shredder Brute",
+"ja": "裂き獣の巨体",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Siefall",
+"ja": "シーフォール",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Skull",
+"ja": "頭蓋骨",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Slow",
+"ja": "鈍足",
+"keep": false,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Soldier",
+"ja": "兵士",
+"keep": false,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Sorceress",
+"ja": "妖術師",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Sovereign Pilar",
+"ja": "ピラー聖君",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Speaker",
+"ja": "代表",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Spell",
+"ja": "呪文",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Spirit",
+"ja": "霊",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Spirit Charge",
+"ja": "霊の突撃",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Spirit Claw",
+"ja": "霊の爪",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Spitting Shredder",
+"ja": "唾吐く裂き獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Spoon",
+"ja": "スプーン",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Spray",
+"ja": "噴霧",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Stalker Hunter",
+"ja": "追跡獣の狩人",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Start New Game",
+"ja": "新規ゲーム開始",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Steel Bones",
+"ja": "鋼の骸骨",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Steel Tornado",
+"ja": "鋼の竜巻",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Steel Wind",
+"ja": "鋼の風",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Stone",
+"ja": "石",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Stone Sentinel",
+"ja": "石の番兵",
+"keep": true,
+"cat": "creature/creature/person",
+"max_bytes": 19
+},
+{
+"en": "Storm",
+"ja": "嵐",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Stunning Bash",
+"ja": "気絶の殴打",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Stunning Powder",
+"ja": "気絶の粉",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Suppression Shredder",
+"ja": "抑圧の裂き獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Suppression Turret",
+"ja": "制圧砲塔",
+"keep": true,
+"cat": "ability/creature",
+"max_bytes": 19
+},
+{
+"en": "Sweep",
+"ja": "薙ぎ払い",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Switch",
+"ja": "スイッチ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Teressa",
+"ja": "テレッサ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Terrifying Howl",
+"ja": "恐怖の咆哮",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "The God Aetius",
+"ja": "アエティウス神",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Thicket Rat",
+"ja": "茂みのネズミ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Thorns",
+"ja": "棘",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Threya",
+"ja": "スレヤ",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Thug",
+"ja": "荒くれ者",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Timon the Tinker",
+"ja": "ティモン機工師",
+"keep": true,
+"cat": "shop"
+},
+{
+"en": "Tinker Querit",
+"ja": "機工師のクエリット",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Tinker Xylane",
+"ja": "機工師のザイレン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Tizorus",
+"ja": "ティゾラス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Tomi",
+"ja": "トミ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Touch",
+"ja": "手",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Tower Guard",
+"ja": "塔の衛兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Trials",
+"ja": "試練",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Triumphant Roar",
+"ja": "勝利の咆哮",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Troezen Arms",
+"ja": "トロイゼン亭",
+"keep": true,
+"cat": "shop"
+},
+{
+"en": "Turrets",
+"ja": "砲塔",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Unlock Charm",
+"ja": "解錠の呪文",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Unstable Shredder",
+"ja": "不安定な裂き獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Use",
+"ja": "使用",
+"keep": false,
+"cat": "term in text"
+},
+{
+"en": "Use Ability",
+"ja": "能力使用",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Vampire Bat",
+"ja": "吸血コウモリ",
+"keep": true,
+"cat": "creature/creature/person",
+"max_bytes": 19
+},
+{
+"en": "Vase",
+"ja": "花瓶",
+"keep": true,
+"cat": "item/object",
+"max_bytes": 19
+},
+{
+"en": "Vik",
+"ja": "ヴィク",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Vlotmos",
+"ja": "ヴロトモス",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "War Cry",
+"ja": "戦いの雄叫び",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Warrior",
+"ja": "戦士",
+"keep": false,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Warrior's Focus",
+"ja": "戦士の集中",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Wasteland Basilisk",
+"ja": "荒野のバジリスク",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Weapons D",
+"ja": "武器架",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Webs",
+"ja": "蜘蛛の巣",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Whirling Bones",
+"ja": "回転する骸骨",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Whispering Hand",
+"ja": "囁きのハンド",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Wolfmaster Aslak",
+"ja": "アスラク狼使い",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Workshop Apprentice",
+"ja": "工房の見習い",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Wretch Simulacrum",
+"ja": "蛮人の模造体",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Wyldrylm Raider",
+"ja": "ワイルドリルム賊",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Yankshot",
+"ja": "引っ張り射撃",
+"keep": true,
+"cat": "ability/skill",
+"max_bytes": 19
+},
+{
+"en": "Zander",
+"ja": "ザンダー",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Zhethron",
+"ja": "ジェスロン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Zhivron",
+"ja": "ジヴロン",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "unused",
+"ja": "未使用",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "A Dragon's Error",
+"ja": "竜の失策",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "A Dragon's Punishment",
+"ja": "竜の制裁",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "A Hand Fears Nothing",
+"ja": "ハンドに恐れなし",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "A Lost Satchel.",
+"ja": "失われた鞄",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "A New Hand.",
+"ja": "新たなハンド",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "A Zephyr",
+"ja": "ゼファー",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Abacus",
+"ja": "算盤",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Acid Mist",
+"ja": "酸の霧",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Active Construct",
+"ja": "起動中の魔造兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Agatha",
+"ja": "アガサ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Airlia's Shop",
+"ja": "エアリアの店",
+"keep": true,
+"cat": "shop"
+},
+{
+"en": "Alcander's Wealth.",
+"ja": "アルカンダーの財産",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Alchemist Basin",
+"ja": "錬金術の水盤",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Alchemist F'Thag",
+"ja": "錬金術師のファサグ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Ale",
+"ja": "エール",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Alpha Rat",
+"ja": "首領ネズミ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Altered Goobat",
+"ja": "変異グーバット",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Altered Wolf",
+"ja": "変異した狼",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Amber-Encased Larva",
+"ja": "琥珀に包まれた幼虫",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Amethyst Scarab",
+"ja": "紫水晶の甲虫",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Ammo Pile",
+"ja": "矢の山",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Amphora",
+"ja": "アンフォラ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "And the Law Won",
+"ja": "法は勝った",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "Animal Skin",
+"ja": "獣の皮",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Anvil",
+"ja": "金床",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Apprentice",
+"ja": "見習い",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Apprentice Rod",
+"ja": "見習いのロッド",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Apprentice Sorcerer",
+"ja": "見習い妖術師",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Apprentice Tinkermage",
+"ja": "見習い機工術師",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Arachnid Broodling",
+"ja": "蜘蛛の幼体",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Arachnid Construct",
+"ja": "蜘蛛の魔造兵",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Arachnid Youngtender",
+"ja": "幼蜘蛛の守り手",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Arcane Scroll",
+"ja": "秘術の巻物",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Archer's Gloves",
+"ja": "弓兵の手袋",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Archery Training",
+"ja": "弓術の訓練",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Arena Zephyr",
+"ja": "闘技場のゼファー",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Armor Craft",
+"ja": "鎧の技",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Armor Stand",
+"ja": "鎧掛け",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Assassin's Dirk",
+"ja": "暗殺者の短剣",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Assault Crystal",
+"ja": "突撃の水晶",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Augmented Rat",
+"ja": "強化ネズミ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Augmented Thug",
+"ja": "強化された荒くれ者",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Avadon Accuracy Totem",
+"ja": "アヴァドンの命中トーテム",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Avadon Anger Totem",
+"ja": "アヴァドンの怒りトーテム",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Avadon Evasion Totem",
+"ja": "アヴァドンの回避トーテム",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Avadon Servant",
+"ja": "アヴァドンの従者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Avadon Vitality Totem",
+"ja": "アヴァドンの活力トーテム",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Avadon's Library.",
+"ja": "アヴァドンの書庫",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Avenger's Greaves",
+"ja": "復讐者のすね当て",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Baffling Dash",
+"ja": "幻惑の突進",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Bag of Coal",
+"ja": "石炭袋",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Bag of Meal",
+"ja": "食料袋",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Bags of Meal",
+"ja": "食料袋",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Bandages",
+"ja": "包帯",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Bar of Iron",
+"ja": "鉄の延べ棒",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Barbed Trident",
+"ja": "返しつきの三叉槍",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Base Worker",
+"ja": "基地の作業員",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Basilisk",
+"ja": "バジリスク",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Basilisk Gaze",
+"ja": "バジリスクの視線",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Basin",
+"ja": "水盤",
+"keep": false,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Basket",
+"ja": "かご",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Battender Garm",
+"ja": "給仕のガーム",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Battle Blessing",
+"ja": "戦いの加護",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Battle Brew",
+"ja": "戦闘薬",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Battle Runestone",
+"ja": "戦いのルーン石",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Battle-Worn Shelter",
+"ja": "戦傷の避難所",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Beaker",
+"ja": "ビーカー",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Beast Focus",
+"ja": "獣の集中",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Beastmaster's Jerkin",
+"ja": "獣使いの胴着",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Befouled Shredder",
+"ja": "汚れた裂き獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Belda's Greaves",
+"ja": "ベルダのすね当て",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Bellows",
+"ja": "ふいご",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Belt of Battle",
+"ja": "戦闘のベルト",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Big Club",
+"ja": "大棍棒",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Bite",
+"ja": "噛みつき",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Bitey",
+"ja": "ガブ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Bitey Two",
+"ja": "ガブ二号",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Biting Frenzy",
+"ja": "噛みつきの狂乱",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Black Birch Staff",
+"ja": "黒樺の杖",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Black Oak Bow",
+"ja": "黒オークの弓",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Black Pot",
+"ja": "黒の壺",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Blade Craft",
+"ja": "刃の技",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Blade Shield",
+"ja": "刃の盾",
+"keep": true,
+"cat": "status"
+},
+{
+"en": "Blademaster Hadya",
+"ja": "剣士のハディヤ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Blademaster Novice",
+"ja": "見習い剣士",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Blademaster's Bulwark",
+"ja": "剣士の防壁",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Blademaster's Steel",
+"ja": "剣士の鋼",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Blanket",
+"ja": "毛布",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Blessed Runestone",
+"ja": "祝福のルーン石",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Blessed Sandals",
+"ja": "祝福のサンダル",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Blessing - Hunter's Blade",
+"ja": "加護（狩人の刃）",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Blessing - Hunter's Eye",
+"ja": "加護（狩人の目）",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Blessing - Ironskin",
+"ja": "加護（鉄の肌）",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Blessing - Protection",
+"ja": "加護（守護）",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Blessing - Strong Mind",
+"ja": "加護（強靭な心）",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Blessing Crystal",
+"ja": "祝福の水晶",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Blinding Arrow",
+"ja": "目潰しの矢",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Blue Symbol",
+"ja": "青い紋章",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Board",
+"ja": "板",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Board Game",
+"ja": "ボードゲーム",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Body",
+"ja": "死体",
+"keep": false,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Bolt Flinger",
+"ja": "ボルト射出器",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Bolt of Cloth",
+"ja": "反物",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Bonechewer Rat",
+"ja": "骨喰いネズミ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Bonecleaver Shield",
+"ja": "骨砕きの盾",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Bones",
+"ja": "骨",
+"keep": false,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Bony Bladebearer",
+"ja": "骸骨の刃兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Bony Walker",
+"ja": "歩く骸骨",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Book Stand",
+"ja": "書見台",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Bound Infernal",
+"ja": "縛られた魔性",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Bounty: Rats!",
+"ja": "賞金: ネズミ退治！",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Bow of the Tower",
+"ja": "塔の弓",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Bowl",
+"ja": "鉢",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Bracelet of Opportunity",
+"ja": "好機の腕輪",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Bracelet of Truth",
+"ja": "真実の腕輪",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Bracers of the Hawk",
+"ja": "鷹の籠手",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Brasula's Plea.",
+"ja": "ブラスラの嘆願",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Brazier D",
+"ja": "火鉢D",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Bread",
+"ja": "パン",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Breastplate of the Anvil",
+"ja": "鉄床の胸当て",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Breastplate of the Tower",
+"ja": "塔の胸当て",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Breath of Shadows",
+"ja": "影の吐息",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Briand's Scarabs",
+"ja": "ブリアンドのスカラベ",
+"keep": true,
+"cat": "shop"
+},
+{
+"en": "Briand's Totems",
+"ja": "ブリアンドのトーテム",
+"keep": true,
+"cat": "shop"
+},
+{
+"en": "Brigand",
+"ja": "山賊",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Brigand Archer",
+"ja": "山賊の弓兵",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Brigand Remains",
+"ja": "山賊の亡骸",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Broadsword of the Tower",
+"ja": "塔のブロードソード",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Broken Pot",
+"ja": "割れた壺",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Broken Sword",
+"ja": "折れた剣",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Bronze Girdle",
+"ja": "青銅の腰帯",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Bronze Helm",
+"ja": "青銅の兜",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Broom",
+"ja": "箒",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Brutal Blow",
+"ja": "残忍な一撃",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Brutal Ghoul",
+"ja": "残忍なグール",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Brutal Shredder",
+"ja": "残忍な裂き獣",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Bucket",
+"ja": "バケツ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Bucket of Water",
+"ja": "水の入ったバケツ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Buckler of Strength",
+"ja": "力の小盾",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Buglia",
+"ja": "ブグリア",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Build Bolt Flinger",
+"ja": "ボルト射出器設置",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Build Boltflinger",
+"ja": "ボルトフリンガー製作",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Build Freezing Turret",
+"ja": "氷結砲塔設置",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Build Inferno Turret",
+"ja": "業火の砲塔設置",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Build Razor Flinger",
+"ja": "剃刃射出器設置",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Bulky Construct",
+"ja": "大型の魔造兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Burning Bones",
+"ja": "燃える骸骨",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Burnished Guard",
+"ja": "磨き上げた守り",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Burnout",
+"ja": "燃え尽き",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Burrowing Horror",
+"ja": "穴掘りの異形",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Cake",
+"ja": "ケーキ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Call Aid",
+"ja": "援軍を呼ぶ",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Call Big Rat",
+"ja": "大ネズミを呼ぶ",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Call Frenzied Imp",
+"ja": "狂乱の小鬼を呼ぶ",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Call Major Aid",
+"ja": "大援軍を呼ぶ",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Call Minor Aid",
+"ja": "小援軍を呼ぶ",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Call Spider",
+"ja": "蜘蛛を呼ぶ",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Call Warped Wolf",
+"ja": "歪んだ狼を呼ぶ",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Call Widow",
+"ja": "ゴケグモを呼ぶ",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Call the Dead",
+"ja": "死者を呼ぶ",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Caller of Darkness",
+"ja": "闇を呼ぶ者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Caller of Earth",
+"ja": "大地を呼ぶ者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Caller of Sky",
+"ja": "空を呼ぶ者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Calling Scarab",
+"ja": "呼び声のスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Can't Stop Lovin' Cake",
+"ja": "ケーキ大好き",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "Candelabra",
+"ja": "燭台",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Candle",
+"ja": "蝋燭",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Caravan Guard",
+"ja": "隊商の衛兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Cattails D",
+"ja": "蒲の穂D",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Caught Your Quarry",
+"ja": "獲物を捕らえた",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "Cave Widow",
+"ja": "洞窟ゴケグモ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Ceramic Pot",
+"ja": "陶器の壺",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Chain Greaves",
+"ja": "鎖の脛当て",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Chainmail",
+"ja": "鎖帷子",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Chainmail Boots",
+"ja": "鎖帷子のブーツ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Chair",
+"ja": "椅子",
+"keep": false,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Chalice of Fire",
+"ja": "火の聖杯",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Chalice of Ice",
+"ja": "氷の聖杯",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Champion",
+"ja": "闘士",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Chaotic Shredder",
+"ja": "混沌の裂き獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Charm of Endurance",
+"ja": "忍耐のお守り",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Charm of Insight",
+"ja": "洞察のお守り",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Charm of Nimbleness",
+"ja": "機敏のお守り",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Charm of Power",
+"ja": "力のお守り",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Charmed",
+"ja": "魅了された",
+"keep": true,
+"cat": "status"
+},
+{
+"en": "Charmed Ogre",
+"ja": "魅了されたオーガ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Charmed Tinker Vyno",
+"ja": "魅了の機工師ヴィノ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Charmed Wretch",
+"ja": "魅了された蛮人",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Chief Bral",
+"ja": "族長ブラル",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Chief Ragmottle",
+"ja": "族長ラグモトル",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Chief Thum",
+"ja": "族長サム",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Chirurgeon's Tunic",
+"ja": "外科医のチュニック",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Chisel",
+"ja": "鑿",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Circle Spirit",
+"ja": "円環の霊",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Clay Bowl",
+"ja": "土の鉢",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Clay Brick",
+"ja": "粘土レンガ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Clay Jug",
+"ja": "土の水差し",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Clay Pot",
+"ja": "土の壺",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Cleaving Blade",
+"ja": "両断の刃",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Cleaving Claw",
+"ja": "両断の爪",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Cloak",
+"ja": "外套",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Cloak of Enchantments",
+"ja": "魔力の外套",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Coated Oak Shield",
+"ja": "塗装オークの盾",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Coins",
+"ja": "ゴールド",
+"keep": false,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Commander Felada",
+"ja": "フェラダ司令官",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Composite Bow",
+"ja": "複合弓",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Cone of Acid",
+"ja": "酸の円錐",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Cone of Fire",
+"ja": "炎の円錐",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Cone of Ice",
+"ja": "氷の円錐",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Cone of Lightning",
+"ja": "雷の円錐",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Cone of Webs",
+"ja": "蜘蛛糸の円錐",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Confused",
+"ja": "混乱",
+"keep": false,
+"cat": "status"
+},
+{
+"en": "Conscription",
+"ja": "徴兵",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "Control Nexus",
+"ja": "制御核",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Control Shredder",
+"ja": "制御された裂き獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Core Shredder",
+"ja": "核の裂き獣",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Core Stalker",
+"ja": "核の追跡獣",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Corpse Commander",
+"ja": "屍の司令官",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Corrupted Broadsword",
+"ja": "堕落したブロードソード",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Corrupted Dead",
+"ja": "堕落した亡者",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Corrupted Farmer",
+"ja": "堕落した農夫",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Corrupted Greaves",
+"ja": "堕落した脛当て",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Corrupted Hellhound",
+"ja": "堕落した地獄犬",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Corrupted High Priest",
+"ja": "堕落した高位司祭",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Corrupted No Longer",
+"ja": "堕落からの解放",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "Corrupted Scarab",
+"ja": "堕落したスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Corrupted Shaman",
+"ja": "堕落した呪術師",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Corrupted Soldier",
+"ja": "堕落した兵士",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Corrupted Titan",
+"ja": "堕落したタイタン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Corrupting Bite",
+"ja": "堕落させる噛みつき",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Corruption Zephyrs.",
+"ja": "堕落の疾風",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Corruption's Core.",
+"ja": "堕落の核",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Corruption's Voice",
+"ja": "堕落の声",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Council's Curiosity.",
+"ja": "評議会の好奇心",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Countering Stone",
+"ja": "対抗の石",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Cow",
+"ja": "牛",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Cowering Chieftain",
+"ja": "怯える族長",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Craftmaster",
+"ja": "工匠長",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "Craftmaster Nicodemus.",
+"ja": "ニコデムス工匠長",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Crate",
+"ja": "木箱",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Crazed Imp",
+"ja": "狂乱の小鬼",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Crude Skin Bracelet",
+"ja": "粗末な皮の腕輪",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Crusher Gath",
+"ja": "粉砕者ガス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Crushing Bite",
+"ja": "粉砕の噛みつき",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Cultist",
+"ja": "教団員",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Cure",
+"ja": "治癒",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Curing Brew",
+"ja": "治療の薬",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Dark Bolt",
+"ja": "暗黒の矢",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Dark Cultist",
+"ja": "暗黒の教団員",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Dark Woods Widow",
+"ja": "暗森のゴケグモ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Dazed",
+"ja": "朦朧",
+"keep": true,
+"cat": "status"
+},
+{
+"en": "Dead of the Circle",
+"ja": "円環の死者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Deadeye Belt",
+"ja": "必中のベルト",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Deadeye Chainmail",
+"ja": "必中の鎖帷子",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Death Widow",
+"ja": "死のゴケグモ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Dedrik's Clan.",
+"ja": "デドリックの一族",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Deep Cultist",
+"ja": "深部の教団員",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Deep Runestone",
+"ja": "深部のルーン石",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Deepfang Boots",
+"ja": "深牙のブーツ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Demon",
+"ja": "デーモン",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Desk",
+"ja": "机",
+"keep": false,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Dharamite Townsman",
+"ja": "ダーラムの町人",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Dharamite Townswoman",
+"ja": "ダーラムの町娘",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Dice",
+"ja": "サイコロ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Die Less Next Time",
+"ja": "次こそ死なない",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "Dire Wolf",
+"ja": "恐狼",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Disabled Construct",
+"ja": "機能停止した魔造兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Diseased Rodent",
+"ja": "病んだネズミ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Disinfection Construct",
+"ja": "消毒の魔造兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Dizzying Swoop",
+"ja": "目眩の急降下",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Door 1 E",
+"ja": "扉1（東）",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Door 1 N",
+"ja": "扉1（北）",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Door 1 S",
+"ja": "扉1（南）",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Door 1 W",
+"ja": "扉1（西）",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Door 2 E",
+"ja": "扉2（東）",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Door 2 N",
+"ja": "扉2（北）",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Door 2 S",
+"ja": "扉2（南）",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Door 2 W",
+"ja": "扉2（西）",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Dormant Construct",
+"ja": "休眠中の魔造兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Doubleshot Bow",
+"ja": "二連射の弓",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Dragon",
+"ja": "ドラゴン",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Dragon's Claw",
+"ja": "ドラゴンの鉤爪",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Dragon's Fang",
+"ja": "ドラゴンの牙",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Dragonfang Baton",
+"ja": "ドラゴン牙の棍棒",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Dragonscale-Lined Boots",
+"ja": "ドラゴンの鱗張りのブーツ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Draining Wave",
+"ja": "吸収の波",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Drake",
+"ja": "ドレイク",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Drake Dynaress",
+"ja": "ダイナレス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Drake Skin",
+"ja": "ドレイクの皮",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Drake Skins.",
+"ja": "ドレイクの皮",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Drake's Sentinel",
+"ja": "ドレイクの番兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Drakescale Greaves",
+"ja": "ドレイクの鱗の脛当て",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Drakescale Mantle",
+"ja": "ドレイクの鱗のマント",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Drakeskin Leather Armor",
+"ja": "ドレイクの革鎧",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Dreadnought Breastplate",
+"ja": "ドレッドノートの胸当て",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Dreadnought Helm",
+"ja": "ドレッドノートの兜",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Dried Meat",
+"ja": "干し肉",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Drunken Brigand",
+"ja": "酔っ払いの山賊",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Dry Bone",
+"ja": "乾いた骨",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Earth Discipline",
+"ja": "大地の鍛錬",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Eastern Sentinel",
+"ja": "東の番兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Eat Food",
+"ja": "食事をとる",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Egg",
+"ja": "卵",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Eggshell",
+"ja": "卵の殻",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Elder Furatus",
+"ja": "長老フラトゥス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Eliades Sentinel",
+"ja": "エリアデスの番兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Elite Archer",
+"ja": "精鋭の弓兵",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Elite Blademaster",
+"ja": "精鋭の剣士",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Elite Shadowwalker",
+"ja": "精鋭の影歩き",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Elite Sorceress",
+"ja": "精鋭の妖術師",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Elite Tinkermage",
+"ja": "精鋭の機工術師",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Elite Warrior",
+"ja": "精鋭の戦士",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Elixir of Battle",
+"ja": "戦闘の霊薬",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Elixir of Health",
+"ja": "健康の霊薬",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Elixir of Recovery",
+"ja": "回復の霊薬",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Elixir of Speed",
+"ja": "俊足の霊薬",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Elixir of Vitality",
+"ja": "活力の霊薬",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Elvan",
+"ja": "エルヴァン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Elvan's Goods",
+"ja": "エルヴァンの雑貨",
+"keep": true,
+"cat": "shop"
+},
+{
+"en": "Emerald",
+"ja": "エメラルド",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Emerald Runestone",
+"ja": "エメラルドのルーン石",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Enchanted Anvil",
+"ja": "魔法の鉄床",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Enchanted Nugget",
+"ja": "魔力の金塊",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Enchanted Pantaloons",
+"ja": "魔力のズボン",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Enchanter",
+"ja": "付与術師",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Enchanter's Bracelets",
+"ja": "付与術師の腕輪",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "End of the Maze",
+"ja": "迷宮の終わり",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "Endgame",
+"ja": "最終決戦",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Enduring Breastplate",
+"ja": "耐久の胸当て",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Enslaved Infernal",
+"ja": "隷属の魔性",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Ensnared",
+"ja": "捕らわれた",
+"keep": true,
+"cat": "status"
+},
+{
+"en": "Enthusiastic Reader",
+"ja": "熱心な読者",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "Enveloping Wrap",
+"ja": "包み込む布",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Envenomed Blade",
+"ja": "毒刃",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Envenomed Bolt",
+"ja": "毒のボルト",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Escaped Ogre",
+"ja": "脱走したオーガ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Escaped Prisoner",
+"ja": "脱走した囚人",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Escaped Rebel",
+"ja": "脱走した反逆者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Escaped Wretch",
+"ja": "脱走した蛮人",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Etched Leather Cap",
+"ja": "彫り模様の革帽子",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Eternal Prisoner",
+"ja": "永遠の囚人",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Executioner",
+"ja": "処刑人",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Experimental Wolf",
+"ja": "実験体の狼",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Explosion of Goo",
+"ja": "粘液の爆発",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Fancy Toolbelt",
+"ja": "洒落た工具ベルト",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Farmhouse Rat",
+"ja": "農家のネズミ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Farsight Band",
+"ja": "遠見の腕輪",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Felixa's Farm.",
+"ja": "フェリクサの農場",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Fiery Crystal",
+"ja": "炎の水晶",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Fiery Infernal",
+"ja": "炎の魔性",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Filthy Soldier",
+"ja": "薄汚い兵士",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Filthy Spawnling",
+"ja": "薄汚い幼生",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Fine Chainmail",
+"ja": "上質の鎖帷子",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Fine Cloak",
+"ja": "上質の外套",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Fine Tunic",
+"ja": "上質のチュニック",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Finish Your Patrol.",
+"ja": "巡回の完了",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Fire Breath",
+"ja": "火炎の吐息",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Fire Pillar",
+"ja": "火柱",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Firelash",
+"ja": "火炎の鞭",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Firenzi the Assassin",
+"ja": "暗殺者フィレンツィ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "First For Everything",
+"ja": "何事も初めて",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "Fish",
+"ja": "魚",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Fishing Pole",
+"ja": "釣り竿",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Flamefang",
+"ja": "炎牙",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Flametooth Blade",
+"ja": "火牙の刃",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Flaming Turret",
+"ja": "火炎の砲塔",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Fleetfoot Boots",
+"ja": "俊足のブーツ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Fleetfoot Scarab",
+"ja": "俊足のスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Floating Wisp",
+"ja": "漂う鬼火",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Focus Mastery",
+"ja": "集中の極意",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Folker's Spirit.",
+"ja": "フォルカーの霊",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Forced Retirement",
+"ja": "強制引退",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "Fork",
+"ja": "フォーク",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Formless Construct",
+"ja": "無定形の魔造兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Freed Wolf",
+"ja": "解放された狼",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Freezing Mine",
+"ja": "凍結地雷",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Freezing Wind",
+"ja": "氷結の風",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Frenzied Infernal",
+"ja": "狂乱の魔性",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Frigid Crusher",
+"ja": "極寒の粉砕者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Frost-Rimed Scarab",
+"ja": "霜の張ったスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Frothing Hellhound",
+"ja": "泡を吹く地獄犬",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Frothing Rat",
+"ja": "泡を吹くネズミ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Fruit",
+"ja": "果物",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Fruit Basket D",
+"ja": "果物かごD",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Fruit Crate",
+"ja": "果物箱",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Full of Hot Air",
+"ja": "大言壮語",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "Gaze of Terror",
+"ja": "恐怖の凝視",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Gemmed Sentinel",
+"ja": "宝石の番兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Ghast",
+"ja": "ガスト",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Ghorah",
+"ja": "ゴラー",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Ghorum",
+"ja": "ゴラム",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Ghost Claws",
+"ja": "ゴーストの爪",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Ghoul",
+"ja": "グール",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Ghoul Claw",
+"ja": "グールの爪",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Giant Cavebat",
+"ja": "巨大洞窟コウモリ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Giant Lizard",
+"ja": "巨大トカゲ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Giant Rat",
+"ja": "巨大ネズミ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Giant Spider",
+"ja": "巨大蜘蛛",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Giant Woods Bat",
+"ja": "森の巨大コウモリ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Gigantic Ratbeast",
+"ja": "巨大ネズミ獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Girl Ghost",
+"ja": "少女のゴースト",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Globe",
+"ja": "地球儀",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Glowing Runestone",
+"ja": "輝くルーン石",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Glowing Silk",
+"ja": "輝く絹",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Goblet",
+"ja": "杯",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Gold Bar",
+"ja": "金塊",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Gold Necklace",
+"ja": "金の首飾り",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Gold Powder",
+"ja": "金の粉",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Gold Ring",
+"ja": "金の指輪",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Golden Goblet",
+"ja": "金の杯",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Golden Runestone",
+"ja": "金のルーン石",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Gong",
+"ja": "銅鑼",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Graverobber Bonechew",
+"ja": "墓荒らしボーン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Graverobber Glasseye",
+"ja": "墓荒らしグラスアイ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Greaves of the Ramparts",
+"ja": "城壁の脛当て",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Greaves of the Vale",
+"ja": "谷の脛当て",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Greek Jar",
+"ja": "ギリシャの壺",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Greenspirit Band",
+"ja": "緑霊の腕輪",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Gremlin Wine",
+"ja": "グレムリンワイン",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Grossle the Scavenger",
+"ja": "拾い屋グロッスル",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Group Cure",
+"ja": "集団治癒",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Group Mental Cure",
+"ja": "集団精神治癒",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Gurt the Thug",
+"ja": "荒くれ者のガート",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Halberd",
+"ja": "ハルバード",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Hammer",
+"ja": "ハンマー",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Hammering Mail",
+"ja": "打撃の鎖帷子",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Hardiness",
+"ja": "頑健",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Hatchet",
+"ja": "手斧",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Hay D",
+"ja": "干し草D",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Heal Ally",
+"ja": "味方を治療",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Heal Self",
+"ja": "自己治療",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Healing Pylon",
+"ja": "治癒の転送柱",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Heartseeker Glaive",
+"ja": "心臓狙いのグレイヴ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Heartseeker Scarab",
+"ja": "心臓狙いのスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Hedge Witch Satchel",
+"ja": "生垣の魔女の鞄",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Hellhound",
+"ja": "地獄犬",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Hellhound Sentinel",
+"ja": "地獄犬の番兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Hoe",
+"ja": "鍬",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Holklandan Band",
+"ja": "ホルクランダの腕輪",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Holklandan Townsman",
+"ja": "ホルクランダの町人",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Holklandan Townswoman",
+"ja": "ホルクランダの町娘",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Honor Token",
+"ja": "名誉の証",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Horn",
+"ja": "角笛",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Horned Serpent",
+"ja": "角付き大蛇",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Horseshoe",
+"ja": "蹄鉄",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Hourglass",
+"ja": "砂時計",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Huge Bat",
+"ja": "巨大コウモリ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Huge Ice Lizard",
+"ja": "巨大氷トカゲ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Huge Rat",
+"ja": "巨大ネズミ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Huge Spider",
+"ja": "巨大蜘蛛",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Huge, Fiery Infernal",
+"ja": "巨大な炎の魔性",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Huge, Icy Infernal",
+"ja": "巨大な氷の魔性",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Hulking Cave Bat",
+"ja": "屈強な洞窟コウモリ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Humanoid Prisoner",
+"ja": "人型の囚人",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Hunt For Chabon.",
+"ja": "チャボン狩り",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Hunt of the Raptors.",
+"ja": "猛禽団狩り",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Hunter Fuggle",
+"ja": "狩人フガル",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Hunting Miranda.",
+"ja": "ミランダ狩り",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Hunting the Rebels.",
+"ja": "反逆者狩り",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Hunting the Swarms.",
+"ja": "群れ狩り",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Ibu's Spirit.",
+"ja": "イブの霊",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Ice Dragon",
+"ja": "氷のドラゴン",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Ice Shaman Torkwin",
+"ja": "呪術師トルクウィン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Ice Turret",
+"ja": "氷の砲塔",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Icerock Scarab",
+"ja": "氷岩のスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Icy Blast",
+"ja": "氷雪の爆風",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Icy Bones",
+"ja": "氷の骸骨",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Icy Claws",
+"ja": "氷の爪",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Icy Construct",
+"ja": "氷の魔造兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Icy Infernal",
+"ja": "氷の魔性",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Icy Runestone",
+"ja": "氷のルーン石",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Immobile",
+"ja": "移動不可",
+"keep": true,
+"cat": "status"
+},
+{
+"en": "Imp",
+"ja": "小鬼",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Imprisoned Soldier",
+"ja": "投獄された兵士",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Impskin Gloves",
+"ja": "小鬼革の手袋",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Incantatrix Carmen",
+"ja": "詠唱師カルメン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Incantor Yves",
+"ja": "詠唱師イヴ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Incantor's Bow",
+"ja": "詠唱師の弓",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Incantor's Runestone",
+"ja": "詠唱師のルーン石",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Incantor's Shoes",
+"ja": "詠唱師の靴",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Incense",
+"ja": "香",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Incubus",
+"ja": "インキュバス",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Incubus Sentinel",
+"ja": "インキュバスの番兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Inert Construct",
+"ja": "不活性の魔造兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Infected Rat",
+"ja": "感染したネズミ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Infected Titan",
+"ja": "感染したタイタン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Infernal Bat",
+"ja": "地獄のコウモリ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Infernal Fiend",
+"ja": "地獄の魔物",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Infernal Imp",
+"ja": "地獄の小鬼",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Infernal Larva",
+"ja": "地獄の幼虫",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Infernal Lieutenant",
+"ja": "地獄の副官",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Infernal Rock Spirit",
+"ja": "地獄の岩霊",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Infernal Servant",
+"ja": "地獄の従者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Infernal Stone",
+"ja": "地獄の石",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Infernal's Halberd",
+"ja": "魔性のハルバード",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Inferno",
+"ja": "業火",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Inferno Stalker",
+"ja": "業火の追跡獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Infused Golden Braid",
+"ja": "魔力を込めた金の組紐",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Infused Meteor",
+"ja": "魔力を込めた隕石",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Invading Infernal",
+"ja": "侵攻する魔性",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Iron Breastplate",
+"ja": "鉄の胸当て",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Iron Broadsword",
+"ja": "鉄のブロードソード",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Iron Gauntlets",
+"ja": "鉄の籠手",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Iron Glaive",
+"ja": "鉄のグレイヴ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Iron Greaves",
+"ja": "鉄の脛当て",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Iron Javelin",
+"ja": "鉄の投げ槍",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Iron Meteor",
+"ja": "鉄の隕石",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Iron Pot",
+"ja": "鉄の壺",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Iron Razordisk",
+"ja": "鉄の円月刃",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Iron Shard",
+"ja": "鉄の欠片",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Iron Shield",
+"ja": "鉄の盾",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Iron Shortsword",
+"ja": "鉄のショートソード",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Iron Spear",
+"ja": "鉄の槍",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Ivory Skull",
+"ja": "象牙のドクロ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Ivy-Entwined Rod",
+"ja": "蔦絡みのロッド",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Jade Halberd",
+"ja": "翡翠のハルバード",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Javelin",
+"ja": "投げ槍",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Jerkin of the Wilds",
+"ja": "荒野の胴衣",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Journey to Tawon.",
+"ja": "タウォンへの旅路",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Jug",
+"ja": "水差し",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Jug C D",
+"ja": "水差しCD",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Jug D",
+"ja": "水差しD",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Kellem Townsman",
+"ja": "ケレムの町人",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Kellem Townswoman",
+"ja": "ケレムの町娘",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Kennelmaster Thenar",
+"ja": "犬舎長テナール",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Key - Blackwood Tower",
+"ja": "鍵（黒き森の塔）",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Key - Eranthe",
+"ja": "鍵（エランテ）",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Key - Gaurus's Farm",
+"ja": "鍵（ガウルスの農場）",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Key - Ogre Skull",
+"ja": "鍵（オーガの頭蓋骨）",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Key - Raptors",
+"ja": "鍵（猛禽団）",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Key - Skyrise Farm",
+"ja": "鍵（天空農場）",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Key - Valera",
+"ja": "鍵（ヴァレラ）",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Khalida's Memory.",
+"ja": "カリーダの記憶",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Kiefe the Trader",
+"ja": "キーフェ商人",
+"keep": true,
+"cat": "shop"
+},
+{
+"en": "Killer of the Kva.",
+"ja": "クヴァの殺し屋",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Knife",
+"ja": "ナイフ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Konstina's Lair.",
+"ja": "コンスティナの巣窟",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Krymhylas, Wind Lord",
+"ja": "風卿クリムヒラス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Kva Bludgeoner",
+"ja": "クヴァの棍棒使い",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Kva Token Ring",
+"ja": "クヴァの証の指輪",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Kva Townsman",
+"ja": "クヴァの町人",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Kva Townswoman",
+"ja": "クヴァの町娘",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Kyan's Drake",
+"ja": "カイアンのドレイク",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Ladder",
+"ja": "はしご",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Ladle",
+"ja": "柄杓",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Lamppost",
+"ja": "街灯",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Landed Gentry",
+"ja": "大地主",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "Laria's Defenses.",
+"ja": "ラリアの防衛",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Laria's Equipment",
+"ja": "ラリアの装備",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Lava Stalker",
+"ja": "溶岩の追跡獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Leather Belt",
+"ja": "革のベルト",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Leather Boots",
+"ja": "革のブーツ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Leather Cap",
+"ja": "革の帽子",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Leather Gloves",
+"ja": "革の手袋",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Leather Greaves",
+"ja": "革の脛当て",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Leather Jerkin",
+"ja": "革の胴衣",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Leather Shoes",
+"ja": "革の靴",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Life Symbol Scarab",
+"ja": "生命の印のスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Light",
+"ja": "発光",
+"keep": false,
+"cat": "status"
+},
+{
+"en": "Light Source",
+"ja": "光源",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Lightning Bones",
+"ja": "雷撃の骸骨",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Lightning Discipline",
+"ja": "雷の鍛錬",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Lightning Javelin",
+"ja": "雷の投げ槍",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Lightning Shortsword",
+"ja": "雷のショートソード",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Limb",
+"ja": "手足",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Locker",
+"ja": "ロッカー",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Lockpick",
+"ja": "解錠具",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Lodestone Chain Boots",
+"ja": "磁石鎖のブーツ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Longbow",
+"ja": "長弓",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Longtooth",
+"ja": "長牙",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Loom",
+"ja": "機織り機",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Lord Carsta'Arl",
+"ja": "カルスタ・アール卿",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Lord Svarl",
+"ja": "スヴァル卿",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Lord Svarl!",
+"ja": "スヴァル卿！",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Lost Caravan.",
+"ja": "失われた隊商",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Lost Dharamite",
+"ja": "失われたダーラム人",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Lost Priest of the Core",
+"ja": "失われた核の司祭",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Lost Soul",
+"ja": "さまよう魂",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Lovely Crystal",
+"ja": "美しい水晶",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Lucky Horseshoe",
+"ja": "幸運の蹄鉄",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Lurking House Spider",
+"ja": "潜む家蜘蛛",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Lurking Stalker",
+"ja": "潜む追跡獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Lurking Widow",
+"ja": "潜むゴケグモ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Mad Science",
+"ja": "狂気の科学",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "Maddened Rebel",
+"ja": "狂乱の反逆者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Mage",
+"ja": "魔術師",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Mage's Staff",
+"ja": "魔術師の杖",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Magical Mastery",
+"ja": "魔術の極意",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Magma Shredder",
+"ja": "溶岩の裂き獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Magnetic Pull",
+"ja": "磁力引き寄せ",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Malachite Scarab",
+"ja": "孔雀石のスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Malfunctioning Construct",
+"ja": "故障した魔造兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Malignus Lord",
+"ja": "マリグナスの君主",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Mangle",
+"ja": "マングル",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Marauder",
+"ja": "略奪者",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Marketplace Guard",
+"ja": "市場の衛兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Marksman",
+"ja": "射手",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Mask of the Stalker",
+"ja": "追跡獣の仮面",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Mass Attraction",
+"ja": "大吸引",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Master Sentinel",
+"ja": "主の番兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Master Sorcerer",
+"ja": "主の妖術師",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Master Tinkermage",
+"ja": "主の機工術師",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Melee Training",
+"ja": "近接戦の訓練",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Merchant",
+"ja": "商人",
+"keep": false,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Metal Bowl",
+"ja": "金属の椀",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Metal Pitcher",
+"ja": "金属の水差し",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Mica Ring",
+"ja": "雲母の指輪",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Mighty Sentinel",
+"ja": "強大な番兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Mighty Wind",
+"ja": "猛烈な風",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Mind Shield",
+"ja": "精神防護",
+"keep": true,
+"cat": "status"
+},
+{
+"en": "Mine Explosion",
+"ja": "地雷爆破",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Mine Freeze",
+"ja": "地雷凍結",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Mine Razors",
+"ja": "地雷の剃刃",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Mine Snare",
+"ja": "地雷捕縛",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Minelayer Construct",
+"ja": "機雷の魔造兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Miranda's Creation",
+"ja": "ミランダの造物",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Miranda's Horror",
+"ja": "ミランダの異形",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Misshapen Worg",
+"ja": "歪んだワーグ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Molten Construct",
+"ja": "溶融の魔造兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Monarch Goretusk",
+"ja": "君主ゴアタスク",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Monarch Ironeye",
+"ja": "鉄眼の君主",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Mop",
+"ja": "モップ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Mortar and Pestle",
+"ja": "乳鉢と乳棒",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Mug",
+"ja": "マグ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Murky Vat D",
+"ja": "濁った大桶",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Mushroom",
+"ja": "キノコ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Mushrooms",
+"ja": "キノコ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Mutant Materials.",
+"ja": "変異体の素材",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Nature Mastery",
+"ja": "自然の極意",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Necklace of Vitality",
+"ja": "活力の首飾り",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Nest",
+"ja": "巣",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Netted Javelin",
+"ja": "網付き投げ槍",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Nice Pot D",
+"ja": "上等な壺",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Nightblade Helm",
+"ja": "夜刃の兜",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Nullity Field",
+"ja": "無効化の領域",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Nullity Pylon",
+"ja": "無効の転送柱",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Nullity Turret",
+"ja": "無効化砲塔",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Oak Pitch",
+"ja": "オークの樹脂",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Obelisk",
+"ja": "オベリスク",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Ogre Brute",
+"ja": "凶暴なオーガ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Ogre Cactus",
+"ja": "オーガのサボテン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Ogre Cactus Shaman",
+"ja": "サボテン呪術師",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Ogre Construct",
+"ja": "オーガの魔造兵",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Ogre Flinger",
+"ja": "オーガの投石兵",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Ogre Hunter",
+"ja": "オーガの狩人",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Ogre Overseer",
+"ja": "監督オーガ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Ogre Ruffian",
+"ja": "乱暴なオーガ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Ogre Seer",
+"ja": "オーガの占い師",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Ogre Shock Trooper",
+"ja": "オーガの突撃兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Ogres of the Kva",
+"ja": "クヴァのオーガ",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Ogrish Gauntlets",
+"ja": "オーガの籠手",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Old Thyr'Mass",
+"ja": "老いたティルマス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Onyx Studded Belt",
+"ja": "オニキスの鋲ベルト",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Oozing Bat",
+"ja": "滴るコウモリ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Oozing Construct",
+"ja": "滴る魔造兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Opal Ring",
+"ja": "オパールの指輪",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Opaline Scarab",
+"ja": "オパールのスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Orb of Puresight",
+"ja": "純視の宝珠",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Ornate Bowl",
+"ja": "装飾の鉢",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Oven",
+"ja": "かまど",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Overseer Crackmarrow",
+"ja": "監督クラックマロウ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Overseer Gelf",
+"ja": "監督ゲルフ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Pact Papers",
+"ja": "盟約の文書",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Pact Warrior",
+"ja": "盟約の戦士",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Pants",
+"ja": "ズボン",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Papers For the Farlands.",
+"ja": "ファーランドの書類",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Path of the Berserker",
+"ja": "狂戦士の道",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Path of the Blade",
+"ja": "刃の道",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Path of the Shield",
+"ja": "盾の道",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Pen and Ink",
+"ja": "ペンとインク",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Pendant of Endurance",
+"ja": "耐久のペンダント",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Pendant of Insight",
+"ja": "洞察のペンダント",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Pendant of Nimbleness",
+"ja": "敏捷のペンダント",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Pendant of Power",
+"ja": "力のペンダント",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Philana's Hunt.",
+"ja": "フィラナ狩り",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Pick",
+"ja": "つるはし",
+"keep": false,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Pile of Books D",
+"ja": "本の山",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Pile of Wood D",
+"ja": "薪の山",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Pillory",
+"ja": "さらし台",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Pillow",
+"ja": "枕",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Pincers",
+"ja": "やっとこ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Pipe",
+"ja": "パイプ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Pit Ogre",
+"ja": "穴のオーガ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Pit-Bred Worg",
+"ja": "穴育ちのワーグ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Pitcher",
+"ja": "水差し",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Plant D",
+"ja": "植物",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Plate",
+"ja": "板金鎧",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Plate Boots",
+"ja": "板金のブーツ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Platinum Ring",
+"ja": "白金の指輪",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Poison Bite",
+"ja": "毒の噛みつき",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Polished Bone Scarab",
+"ja": "磨かれた骨のスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Portal",
+"ja": "ポータル",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Portcullis",
+"ja": "落とし格子",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Post w. Ring D",
+"ja": "輪付きの杭",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Pot D",
+"ja": "壺",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Potion of Battle",
+"ja": "戦いの薬",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Potion of Speed",
+"ja": "俊足の薬",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Powdered Demon Horn",
+"ja": "デーモンの角の粉",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Power Vessel",
+"ja": "力の器",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Preservation Construct",
+"ja": "保存の魔造兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Prison Specter",
+"ja": "牢獄の怨霊",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Prison Turret",
+"ja": "牢獄の砲塔",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Prisoner",
+"ja": "囚人",
+"keep": false,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Protus' Papers",
+"ja": "プロトゥスの書類",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Pulsating Scarab",
+"ja": "脈打つスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Pulsing Runestone",
+"ja": "脈動するルーン石",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Punch",
+"ja": "殴打",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Purity Construct",
+"ja": "清浄の魔造兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Pustulent Zombie",
+"ja": "膿んだゾンビ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Pylon",
+"ja": "転送柱",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Pyromaniac Imp",
+"ja": "放火魔の小鬼",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Quickghast",
+"ja": "素早い亡霊",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Quicksilver Vest",
+"ja": "水銀の胴着",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Rabid Rat",
+"ja": "狂暴なネズミ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Radiant Choker",
+"ja": "輝くチョーカー",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Radiate Acid",
+"ja": "酸の放射",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Radiate Corruption",
+"ja": "堕落の放射",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Radiate Fire",
+"ja": "炎の放射",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Radiate Ice",
+"ja": "氷の放射",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Radiate Lightning",
+"ja": "雷の放射",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Raider Gnarlclaw",
+"ja": "襲撃者ナールクロー",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Raider Thrush",
+"ja": "襲撃者スラッシュ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Raider Travlo",
+"ja": "襲撃者トラヴロ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Raider's Cutlass",
+"ja": "襲撃者のカットラス",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Rain of Corruption",
+"ja": "堕落の雨",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Rake",
+"ja": "熊手",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Raptor Archer",
+"ja": "猛禽団の弓兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Raptor Guard",
+"ja": "猛禽団の衛兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Raptor Sorceress",
+"ja": "猛禽団の妖術師",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Rasmus's Gem Shop",
+"ja": "ラスマスの宝石店",
+"keep": true,
+"cat": "shop"
+},
+{
+"en": "Razor Flinger",
+"ja": "剃刀の投擲者",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Razor Mine",
+"ja": "剃刀の地雷",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Razordisk Training",
+"ja": "円月刃の訓練",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Razorflinger",
+"ja": "剃刃射出器",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Rebel Elspeth",
+"ja": "反逆者エルスペス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Rebel Guard",
+"ja": "反逆者の衛兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Rebel Karatus",
+"ja": "反逆者カラタス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Rebel Karina",
+"ja": "反逆者カリナ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Rebel Stalking Hound",
+"ja": "反逆者の追跡猟犬",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Rebel Titan",
+"ja": "反逆者のタイタン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Rebel Vhalor",
+"ja": "反逆者ヴァロア",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Rebel Yttria",
+"ja": "反逆者イットリア",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Recuperation Crystal",
+"ja": "回復の水晶",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Red Crystal Orb",
+"ja": "赤い水晶球",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Redbeard's Blade",
+"ja": "赤髭の刃",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Redbeard's Construct",
+"ja": "赤髭の魔造兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Regenerating",
+"ja": "再生中",
+"keep": true,
+"cat": "status"
+},
+{
+"en": "Reinforcing Pylon",
+"ja": "強化の転送柱",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Remember the Fallen",
+"ja": "倒れた者を忘れず",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "Report to Avadon.",
+"ja": "アヴァドンへの報告",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Resilient Mesh",
+"ja": "強靭な編み鎧",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Resistance Chant",
+"ja": "抵抗の詠唱",
+"keep": true,
+"cat": "status"
+},
+{
+"en": "Restless Spirit",
+"ja": "安らがぬ霊",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Restore Vitality",
+"ja": "活力回復",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Restoring Avadon.",
+"ja": "アヴァドンの再建",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Revived Raider",
+"ja": "蘇った襲撃者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Revived Tribesman",
+"ja": "蘇った部族民",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Ring of the Lovelorn",
+"ja": "恋焦がれの指輪",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Road Marker",
+"ja": "道標",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Roasting Shredder",
+"ja": "焼焦の裂き獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Robe",
+"ja": "ローブ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Robe of the Sorcerer",
+"ja": "妖術師のローブ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Rock",
+"ja": "岩",
+"keep": false,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Rock Spirit",
+"ja": "岩霊",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Rockridge Pests.",
+"ja": "ロックリッジの害虫",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Rod of the Deep Woods",
+"ja": "深森のロッド",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Rod of the Elder Oak",
+"ja": "古樫のロッド",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Rogue Archer",
+"ja": "ならず者の弓兵",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Rogue Shredder",
+"ja": "ならず者の裂き獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Rogue Warrior",
+"ja": "ならず者の戦士",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Roll",
+"ja": "パン",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Rolling Pin",
+"ja": "麺棒",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Rope",
+"ja": "ロープ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Rotting Dead",
+"ja": "朽ちた亡者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Ruby",
+"ja": "ルビー",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Ruby Ring",
+"ja": "ルビーの指輪",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Run Earthquake",
+"ja": "地震発動",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Rune-Etched Buckler",
+"ja": "ルーン刻みの小盾",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Rune-Etched Glaive",
+"ja": "ルーン刻みのグレイヴ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Runed Steel Mesh",
+"ja": "ルーンの鋼の編み鎧",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Runesoled Shoes",
+"ja": "ルーン底の靴",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Runestone of Purity",
+"ja": "純潔のルーン石",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Runeweave Gloves",
+"ja": "ルーン編みの手袋",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Sabotaged Turret",
+"ja": "破壊された砲塔",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Sage",
+"ja": "賢者",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Sage's Bow",
+"ja": "賢者の弓",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Sage's Rod",
+"ja": "賢者のロッド",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Sage's Tiara",
+"ja": "賢者のティアラ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Samien the Trader",
+"ja": "サミエン商人",
+"keep": true,
+"cat": "shop"
+},
+{
+"en": "Sapphire",
+"ja": "サファイア",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Sapphire Powder",
+"ja": "サファイアの粉",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Sapphire Ring",
+"ja": "サファイアの指輪",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Sash of the Breeze",
+"ja": "そよ風の帯",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Satchel of Records",
+"ja": "記録の鞄",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Savage Pounce",
+"ja": "獰猛な飛びかかり",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Saw",
+"ja": "のこぎり",
+"keep": false,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Scalpel",
+"ja": "メス",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Scarab of Evasion",
+"ja": "回避のスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Scarab of Pure Clarity",
+"ja": "清澄のスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Scarab of Subtlety",
+"ja": "巧緻のスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Scarab of Tenacity",
+"ja": "不屈のスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Scarab of Warfare",
+"ja": "戦闘のスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Scarab of the Void",
+"ja": "虚空のスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Scarecrow",
+"ja": "案山子",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Scavenger Hunt.",
+"ja": "宝探し",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Schematics",
+"ja": "設計図",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Scimitar of Subtlety",
+"ja": "巧妙のシミター",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Scissors",
+"ja": "ハサミ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Scorched Girdle",
+"ja": "焼け焦げの腰帯",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Scorched Greaves",
+"ja": "焼け焦げの脛当て",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Scout Vhessa",
+"ja": "斥候ヴェッサ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Screeching Spectre",
+"ja": "金切り声の怨霊",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Screeching Wolf",
+"ja": "金切り声の狼",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Scroll: Charm Foe",
+"ja": "巻物：魅了",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Scroll: Circle of Fire",
+"ja": "巻物：火炎陣",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Scroll: Group Heal",
+"ja": "巻物：集団治癒",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Scroll: Lightning",
+"ja": "巻物：雷撃",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Scroll: Resurrection",
+"ja": "巻物：蘇生",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Scroll: Speed Burst",
+"ja": "巻物：急加速",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Searing Mine",
+"ja": "灼熱の地雷",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Searing Razor",
+"ja": "灼熱の剃刃",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Searing Razor Flinger",
+"ja": "灼熱の剃刀投擲者",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Searing Razordisk",
+"ja": "灼熱の円月刃",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Searing Scarab",
+"ja": "灼熱のスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Searing Spark",
+"ja": "灼熱の火花",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Searing Stalker",
+"ja": "灼熱の追跡獣",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Seeking Lance",
+"ja": "探求のランス",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Seer Dan'Lerth",
+"ja": "占い師ダンレス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Seer Thylar",
+"ja": "占い師サイラー",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Seer Vorega",
+"ja": "占い師ヴォレガ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Senicha's Shade",
+"ja": "セニチャの亡霊",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Sentient Eyestalk",
+"ja": "意思ある眼柄",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Shackled Filthwolf",
+"ja": "繋がれた汚狼",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shackles",
+"ja": "枷",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Shade of Krymhylas",
+"ja": "クリムヒラスの亡霊",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shade of Lost Tawon",
+"ja": "タウォンの亡霊",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shade of Ulixes",
+"ja": "ユリクセスの亡霊",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shadow Mask",
+"ja": "影の仮面",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Shadow Shroud",
+"ja": "影の覆い衣",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Shadow Stalker",
+"ja": "影の追跡獣",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Shadowstone Ring",
+"ja": "影石の指輪",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Shadowwalker Assassin",
+"ja": "影歩きの刺客",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shadowwalker Yasuo",
+"ja": "影歩きヤスオ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shadowwalker's Blade",
+"ja": "影歩きの刃",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Shadowwalker's Boots",
+"ja": "影歩きの靴",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Shadowwalker's Lance",
+"ja": "影歩きのランス",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Shadowwalker's Mesh",
+"ja": "影歩きの網鎧",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Shaman Drena",
+"ja": "呪術師のドレナ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shaman Elder",
+"ja": "呪術師の長老",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Shaman Elysia",
+"ja": "呪術師のエリシア",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shaman Fizzlethump",
+"ja": "呪術師フィズル",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shaman Flug",
+"ja": "呪術師フルグ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shaman Fughal",
+"ja": "呪術師フゲル",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shaman Gashla",
+"ja": "呪術師のガシュラ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shaman Knucklebone",
+"ja": "呪術師の指骨",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shaman Kyan",
+"ja": "呪術師のキャン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shaman Quoru",
+"ja": "呪術師のクオル",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shaman Torkwin",
+"ja": "トークウィン呪術師",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shaman Unni",
+"ja": "呪術師のウンニ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shaman Xyara",
+"ja": "呪術師のザイアラ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shaman Yttrah",
+"ja": "呪術師のイトラ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shaman Zhysha",
+"ja": "呪術師のジーシャ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shaman's Stave",
+"ja": "呪術師の杖",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Shard of the Phoenix",
+"ja": "不死鳥の欠片",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Sharpshooter",
+"ja": "狙撃手",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Sharpshooter's Mantle",
+"ja": "狙撃手の外套",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Sheet of Paper",
+"ja": "紙切れ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Sheltering Buckler",
+"ja": "守護の小盾",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Shield Chant",
+"ja": "盾の詠唱",
+"keep": true,
+"cat": "status"
+},
+{
+"en": "Shield of Recovery",
+"ja": "回復の盾",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Shock Troop Shield",
+"ja": "突撃兵の盾",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Shock Turret",
+"ja": "衝撃の砲塔",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Shocking Shredder",
+"ja": "衝撃の裂き獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Shooting Stars",
+"ja": "流星群",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Shortbow",
+"ja": "短弓",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Shovel",
+"ja": "シャベル",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Shred",
+"ja": "シュレッド",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Sign",
+"ja": "看板",
+"keep": false,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Silk-Woven Cord",
+"ja": "絹織りの紐",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Silken Shroud",
+"ja": "絹の覆い布",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Silver Necklace",
+"ja": "銀の首飾り",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Skeletal Flinger",
+"ja": "骸骨の投擲兵",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Skeletal Warrior",
+"ja": "骸骨の戦士",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Skeleton",
+"ja": "骸骨",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Skin D",
+"ja": "皮",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Skulls",
+"ja": "頭蓋骨の山",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Skyrise Farm.",
+"ja": "天空農場",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Skystar Chainmail",
+"ja": "天星の鎖帷子",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Sleetcaller's Staff",
+"ja": "霙呼びの杖",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Slowed",
+"ja": "鈍足",
+"keep": true,
+"cat": "status"
+},
+{
+"en": "Smith Storos",
+"ja": "鍛冶屋のストロス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Smoky Greaves",
+"ja": "煙の脛当て",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Snare Mine",
+"ja": "罠の地雷",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Snarling Imp",
+"ja": "唸る小鬼",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Snarly",
+"ja": "スナーリー",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Sniper",
+"ja": "狙撃兵",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Soft Leather Cloak",
+"ja": "柔革の外套",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Soldier's Helm",
+"ja": "兵士の兜",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Soulless One",
+"ja": "魂なき者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Soultaker Infernal",
+"ja": "魂奪いの魔性",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Sparkly",
+"ja": "光る物",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Spawned Crusher",
+"ja": "生まれた破砕者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Spawned Stalker",
+"ja": "生まれた追跡獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Spear",
+"ja": "槍",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Specter",
+"ja": "怨霊",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Spectral Priest",
+"ja": "亡霊の司祭",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Spectral Sorcerer",
+"ja": "亡霊の妖術師",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Spectral Titan",
+"ja": "亡霊のタイタン",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Spectral Wolf",
+"ja": "霊狼",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Speed Burst",
+"ja": "急加速",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Spellward Stalker",
+"ja": "護呪の追跡獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Spellweaver Mantle",
+"ja": "呪文織りのマント",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Spellweaver Sash",
+"ja": "呪文織りの飾り帯",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Spidersilk Cloak",
+"ja": "蜘蛛糸の外套",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Spidersilk Pants",
+"ja": "蜘蛛糸のズボン",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Spidersilk Tunic",
+"ja": "蜘蛛糸の胴衣",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Spikeback Lizard",
+"ja": "棘背のトカゲ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Spine Shield",
+"ja": "棘の守り",
+"keep": true,
+"cat": "status"
+},
+{
+"en": "Spiny Scarab",
+"ja": "棘のスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Spirit Vessel",
+"ja": "霊の器",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Spirit of Nolus",
+"ja": "ノルスの霊",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Staff of Recovery",
+"ja": "回復の杖",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Staff of the Sorcerer",
+"ja": "妖術師の杖",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Stalker Assassin",
+"ja": "追跡獣の暗殺者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Stalker Controller",
+"ja": "追跡獣の操者",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Stalker's Blast",
+"ja": "追跡獣の爆撃",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Starfire Rod",
+"ja": "星炎のロッド",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Starving Hellhound",
+"ja": "飢えた地獄犬",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Steel Bolt",
+"ja": "鋼のボルト",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Steel Bracers",
+"ja": "鋼の腕当て",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Steel Breastplate",
+"ja": "鋼の胸当て",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Steel Broadsword",
+"ja": "鋼のブロードソード",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Steel Dagger",
+"ja": "鋼の短剣",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Steel Discipline",
+"ja": "鋼の鍛錬",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Steel Greaves",
+"ja": "鋼の脛当て",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Steel Halberd",
+"ja": "鋼のハルバード",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Steel Helm",
+"ja": "鋼の兜",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Steel Javelin",
+"ja": "鋼の投げ槍",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Steel Razor",
+"ja": "鋼の剃刃",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Steel Razordisk",
+"ja": "鋼の円月刃",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Steel Shield",
+"ja": "鋼の盾",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Steel Shortsword",
+"ja": "鋼のショートソード",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Steel Spear",
+"ja": "鋼の槍",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Stein",
+"ja": "ジョッキ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Stick",
+"ja": "棒",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Stinking Gas",
+"ja": "悪臭ガス",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Stompin' Boots",
+"ja": "踏み鳴らしのブーツ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Stone Block",
+"ja": "石のブロック",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Stone Blocks",
+"ja": "石のブロック",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Stone Defender",
+"ja": "石の守護者",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Stone Shard",
+"ja": "石の破片",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Stool D",
+"ja": "腰掛け",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Studded Leather Armor",
+"ja": "鋲打ち革鎧",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Student's Robe",
+"ja": "学生のローブ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Stunned",
+"ja": "気絶",
+"keep": true,
+"cat": "status"
+},
+{
+"en": "Stunning Claw",
+"ja": "気絶の爪",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Summoner's Stave",
+"ja": "召喚士の杖",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Suppression Gaze",
+"ja": "制圧の眼光",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Svorum",
+"ja": "スヴォルム",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Swamprunner Wretch",
+"ja": "沼走りの蛮人",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Sword",
+"ja": "剣",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Tainted Buckler",
+"ja": "穢れた小盾",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Tarrus",
+"ja": "タルス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Tawon Emblem",
+"ja": "タウォンの紋章",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Tawon Hunter",
+"ja": "タウォンの狩人",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Tawon Robe",
+"ja": "タウォンのローブ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Tawon Shock Trooper",
+"ja": "タウォンの衝撃兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Tawon Summoner",
+"ja": "タウォンの召喚士",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Tawon Throne",
+"ja": "タウォンの玉座",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Tawon Warrior",
+"ja": "タウォンの戦士",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Teacup",
+"ja": "茶碗",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Teapot",
+"ja": "ティーポット",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Teleport",
+"ja": "瞬間移動",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Temple Pest",
+"ja": "神殿の害虫",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Temple Sentinel",
+"ja": "神殿の番兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Temporal Pylon",
+"ja": "時の転送柱",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Temporal Turret",
+"ja": "時間砲塔",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Terrified",
+"ja": "恐怖",
+"keep": false,
+"cat": "status"
+},
+{
+"en": "Terror Hound",
+"ja": "恐怖の猟犬",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Terror Sentinel",
+"ja": "恐怖の番兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "The Corruption.",
+"ja": "堕落",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "The Debtor.",
+"ja": "債務者",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "The Final Hunt.",
+"ja": "最後の狩り",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "The First Clues",
+"ja": "最初の手がかり",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "The Goddess Valera",
+"ja": "ヴァレラ女神",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "The Lawcarver.",
+"ja": "法刻師",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "The Mad God",
+"ja": "狂える神",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "The Pure Land",
+"ja": "清浄の地",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "The Recordkeeper.",
+"ja": "記録官",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "The Sinkhole.",
+"ja": "陥没穴",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "The Sleeping God",
+"ja": "眠れる神",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "The Slippery Seacow",
+"ja": "滑る海牛亭",
+"keep": true,
+"cat": "shop"
+},
+{
+"en": "The Temples of Tawon.",
+"ja": "タウォンの神殿群",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "The War Begins",
+"ja": "戦いの始まり",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "Thing In the Basement",
+"ja": "地下室の何か",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Thorn Shield",
+"ja": "棘の盾",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Thread",
+"ja": "糸",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Thrown Rock",
+"ja": "投石",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Timewalk Scarab",
+"ja": "時渡りのスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Tinker Vlotmos",
+"ja": "機工師のヴロトモス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Tinkermage Construct",
+"ja": "機工術師の魔造兵",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Tinkermage Shortblade",
+"ja": "機工術師の短剣",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Tinkermage Work Coat",
+"ja": "機工術師の作業着",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Titan",
+"ja": "タイタン",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Titan Bash",
+"ja": "タイタン殴打",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Titan Chitin Plate",
+"ja": "タイタンの甲殻板",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Titan Club",
+"ja": "タイタンの棍棒",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Titan Conjurer",
+"ja": "タイタンの召喚師",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Titan Crusher",
+"ja": "タイタンの破砕者",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Titan Flinger",
+"ja": "タイタンの投擲者",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Titan Jhezeleth",
+"ja": "タイタンジェゼレス",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Titan Monarch",
+"ja": "タイタンの君主",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Titan Simulacrum",
+"ja": "タイタンの模造体",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Titan Zombie",
+"ja": "タイタンのゾンビ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Titan's Gauntlets",
+"ja": "タイタンの籠手",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Titan's Longbow",
+"ja": "タイタンの長弓",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Titansmith Gulra",
+"ja": "タイタン鍛冶グルラ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Titansteel Boots",
+"ja": "タイタン鋼のブーツ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Titansteel Breastplate",
+"ja": "タイタン鋼の胸当て",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Titansteel Broadsword",
+"ja": "タイタン鋼ブロードソード",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Titansteel Chainmail",
+"ja": "タイタン鋼の鎖帷子",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Titansteel Girdle",
+"ja": "タイタン鋼の腰帯",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Titansteel Halberd",
+"ja": "タイタン鋼のハルバード",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Titansteel Javelin",
+"ja": "タイタン鋼の投げ槍",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Titansteel Razordisk",
+"ja": "タイタン鋼の円月刃",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Titansteel Shield",
+"ja": "タイタン鋼の盾",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Titansteel Shortsword",
+"ja": "タイタン鋼ショートソード",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Titansteel Spear",
+"ja": "タイタン鋼の槍",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Titansteel-Woven Pants",
+"ja": "タイタン鋼織りのズボン",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "To the Core and Back",
+"ja": "核心へ往復",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "Tokens of Honor.",
+"ja": "名誉の証",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Tombstone D",
+"ja": "墓石",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Tongs",
+"ja": "やっとこ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Tools",
+"ja": "道具",
+"keep": false,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Tortured Horror",
+"ja": "責め苦の異形",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Totem",
+"ja": "トーテム",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Touched By Corruption",
+"ja": "堕落に染まった",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Towel",
+"ja": "タオル",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Townsperson",
+"ja": "町人",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Trained Basilisk",
+"ja": "調教バジリスク",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Training - Blessings",
+"ja": "訓練（加護）",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Training - Deadly Arm",
+"ja": "訓練（必殺の腕）",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Training - Deadly Eye",
+"ja": "訓練（必殺の目）",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Training - Heal Craft",
+"ja": "訓練（治癒の技）",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Training - Spellfire",
+"ja": "訓練（呪火）",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Training - True Arm",
+"ja": "訓練（真の腕）",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Training - True Eye",
+"ja": "訓練（真の目）",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Translucent Scarab",
+"ja": "半透明のスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Trap UNUSED",
+"ja": "未使用の罠",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Trapdoor",
+"ja": "落とし戸",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Treasure Hunter",
+"ja": "宝探し",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "Tribal Fetish",
+"ja": "部族の護符",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Tribal Fire Pillar",
+"ja": "部族の火柱",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Troezen Guard",
+"ja": "トロイゼンの衛兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Troezen's Trove.",
+"ja": "トロイゼンの宝物庫",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Trowel",
+"ja": "移植ごて",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Trueblade Crest",
+"ja": "真刃の紋章",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Truefoot Bracelet",
+"ja": "真足の腕輪",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Trueshield Wrap",
+"ja": "真盾の衣",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Truesight Scarab",
+"ja": "真眼のスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Truesteel Wrap",
+"ja": "真鋼の包み布",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Truestroke Broadsword",
+"ja": "真撃のブロードソード",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Tunic",
+"ja": "チュニック",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Turret Barbed Snare",
+"ja": "砲塔の棘捕縛",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Turret Blessing",
+"ja": "砲塔の加護",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Turret Craft",
+"ja": "砲塔の技",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Turret Healing",
+"ja": "砲塔の治癒",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Turret Reinforcement",
+"ja": "砲塔の増強",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Turret Snare",
+"ja": "砲塔の捕縛",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Turret Strong Bless",
+"ja": "砲塔の強い加護",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Unruly Ghosts.",
+"ja": "暴れるゴースト",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Unstable Bones",
+"ja": "不安定な骸骨",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Use Bandage",
+"ja": "包帯を使う",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Valyrian Saber",
+"ja": "ヴァリリアンのサーベル",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Vat",
+"ja": "大桶",
+"keep": true,
+"cat": "object",
+"max_bytes": 19
+},
+{
+"en": "Veneth's Spear",
+"ja": "ヴェネスの槍",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Venomous Bolt Flinger",
+"ja": "毒矢の投石兵",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Vest of the Shaman",
+"ja": "呪術師の胴衣",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Vibrating Scarab",
+"ja": "震えるスカラベ",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Vicious Widow",
+"ja": "凶暴なゴケグモ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Vile Widow",
+"ja": "邪悪なゴケグモ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Vise",
+"ja": "万力",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Vreemire",
+"ja": "ヴリーミア",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Vrgul the Smith",
+"ja": "鍛冶屋のヴルグル",
+"keep": true,
+"cat": "shop"
+},
+{
+"en": "Vulnerability Curse",
+"ja": "脆弱化の呪い",
+"keep": true,
+"cat": "status"
+},
+{
+"en": "Walking Bones",
+"ja": "歩く骸骨",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Walking Dead",
+"ja": "歩く死者",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Walking Terror",
+"ja": "歩く恐怖",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Wall Spots",
+"ja": "壁の染み",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "Wand of Calling",
+"ja": "召喚のワンド",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Wand of Corruption",
+"ja": "堕落のワンド",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Wand of Fire",
+"ja": "火炎のワンド",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Wand of Ice",
+"ja": "氷のワンド",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Wand of Lightning",
+"ja": "雷撃のワンド",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Wand of Venom",
+"ja": "毒のワンド",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Wanderer's Jerkin",
+"ja": "放浪者の胴衣",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Wandering Eye.",
+"ja": "彷徨うアイ",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "War Chant Shield",
+"ja": "戦歌の盾",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Ward Mastery",
+"ja": "守護の極意",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Warped Arachnid",
+"ja": "歪んだ蜘蛛",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Warped Drake",
+"ja": "歪んだドレイク",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Warped Stalker",
+"ja": "歪んだ追跡獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Warped Wolf",
+"ja": "歪んだ狼",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Warrior of the Pact",
+"ja": "盟約の戦士",
+"keep": true,
+"cat": "achievement"
+},
+{
+"en": "Warrior's Shelter",
+"ja": "戦士の守り",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Wastes Shredder",
+"ja": "荒野の裂き獣",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Wastes Stalker",
+"ja": "荒野の追跡獣",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Wastes Widow",
+"ja": "荒野のゴケグモ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Webspinner Horror",
+"ja": "蜘蛛糸紡ぎの異形",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Weights",
+"ja": "重り",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Western Sentinel",
+"ja": "西の番兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Whip",
+"ja": "鞭",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "White Symbol",
+"ja": "白い紋章",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Widow Matriarch",
+"ja": "ゴケグモの女家長",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Wild Magic",
+"ja": "野生の魔法",
+"keep": true,
+"cat": "ability",
+"max_bytes": 19
+},
+{
+"en": "Wind Shredder",
+"ja": "風の裂き獣",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Wine",
+"ja": "ワイン",
+"keep": false,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Wishing Crest",
+"ja": "願いの紋章",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Wizard",
+"ja": "魔術師",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Wizard's Bow",
+"ja": "魔術師の弓",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Wizard's Loop",
+"ja": "魔術師の指輪",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Wizard's Staff",
+"ja": "魔術師の杖",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Wolfmaster Gury",
+"ja": "グリー狼使い",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Wolfmaster Gutt",
+"ja": "ガット狼使い",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Wolfmaster Selma",
+"ja": "セルマ狼使い",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Wolfmaster Trys",
+"ja": "トライス狼使い",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Wooden Shield",
+"ja": "木の盾",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Woods Bat",
+"ja": "森のコウモリ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Wool Pants",
+"ja": "毛織りのズボン",
+"keep": true,
+"cat": "item",
+"max_bytes": 25
+},
+{
+"en": "Work For the Tawon.",
+"ja": "タウォンの仕事",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Wounded Ogre",
+"ja": "負傷したオーガ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Wretch",
+"ja": "蛮人",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Wretch Assassin",
+"ja": "蛮人の刺客",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Wretch Chief",
+"ja": "蛮人の族長",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Wretch Child",
+"ja": "蛮人の子供",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Wretch Construct",
+"ja": "蛮人の魔造兵",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Wretch Guard",
+"ja": "蛮人の衛兵",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Wretch Hunter",
+"ja": "蛮人の狩人",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Wretch Raider",
+"ja": "蛮人の襲撃者",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Wretch Shaman",
+"ja": "蛮人の呪術師",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Wretch Warrior",
+"ja": "蛮人の戦士",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Wretch Witch Doctor",
+"ja": "蛮人の呪医",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Wristflinger Training",
+"ja": "リストフリンガー訓練",
+"keep": true,
+"cat": "skill"
+},
+{
+"en": "Wyldrylm Townsman",
+"ja": "ワイルドリルム町民",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Wyldrylm Townswoman",
+"ja": "ワイルドリルム町娘",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Wyrmling",
+"ja": "小竜",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Xanthura",
+"ja": "クサンスラ",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Yannick's Studies.",
+"ja": "ヤニックの研究",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Yellow Symbol",
+"ja": "黄色い紋章",
+"keep": true,
+"cat": "special item"
+},
+{
+"en": "Yoshiria's Debt.",
+"ja": "ヨシリアの借金",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Young Dire Wolf",
+"ja": "若い恐狼",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Young Hellhound",
+"ja": "若い地獄犬",
+"keep": true,
+"cat": "creature/person",
+"max_bytes": 19
+},
+{
+"en": "Young Shaman",
+"ja": "若い呪術師",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Yutsua's Call.",
+"ja": "ユツアの呼び声",
+"keep": true,
+"cat": "quest title"
+},
+{
+"en": "Zombie",
+"ja": "ゾンビ",
+"keep": true,
+"cat": "creature",
+"max_bytes": 19
+},
+{
+"en": "Envoy",
+"ja": "使節",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Councilor",
+"ja": "評議員",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Lawcarver",
+"ja": "法刻師",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Seeker",
+"ja": "探求官",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Stalker",
+"ja": "追跡獣",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Shredder",
+"ja": "裂き獣",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Horror",
+"ja": "異形",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Construct",
+"ja": "魔造兵",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Simulacrum",
+"ja": "模造体",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Turret",
+"ja": "砲塔",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Avadon 2",
+"ja": "アヴァドン2",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Stalkers",
+"ja": "追跡獣",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Shredders",
+"ja": "裂き獣",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Horrors",
+"ja": "異形",
+"keep": true,
+"cat": "term in text"
+},
+{
+"en": "Constructs",
+"ja": "魔造兵",
+"keep": true,
+"cat": "term in text"
+}
+]
