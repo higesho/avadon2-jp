@@ -1862,7 +1862,10 @@ BOOL WINAPI DllMain(HINSTANCE inst, DWORD reason, LPVOID reserved)
         g_base = (BYTE *)GetModuleHandleA(NULL);
         jp_log("Avadon 2 JP hook loaded. base=%p face=%s\n", g_base, g_fontFace);
         _snprintf(path, sizeof path, "%s\\avadon2_jp.ini", dir);
+#ifdef AVJP_TEST
+        // 試験版（build.bat test）だけ: [debug] force_scan=1 で画面の文字列の探索を強制する
         g_forceScan = GetPrivateProfileIntA("debug", "force_scan", 0, path);
+#endif
         if (!resolve_addresses(g_forceScan))
         {
             jp_log("this Avadon 2.exe is not supported: Japanese is turned off and the game runs unchanged\n");
